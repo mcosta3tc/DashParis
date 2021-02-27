@@ -1,0 +1,645 @@
+TYPE;STATUT;ADRESSE;ARRONDISSEMENT;HORAIRE;ACCES_PMR;RELAIS_BEBE;URL_FICHE_EQUIPEMENT;geo_shape;geo_point_2d
+SANISETTES;Ouvert;face 97 RUE DU CHEVALERET;13;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.375200718397584, 48.83032574552438]]}";48.8303257455,2.3752007184
+SANISETTES;Fermé;26 PLACE ETIENNE PERNET;15;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.292137239974755, 48.84258937721881]]}";48.8425893772,2.29213723997
+SANISETTES;Fermé;73 QUAI BRANLY;15;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.291104558604042, 48.8572621090066]]}";48.857262109,2.2911045586
+SANISETTES;Ouvert;face 38 AVENUE RAPHAEL;16;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.266699031575164, 48.85719279757156]]}";48.8571927976,2.26669903158
+SANISETTES;Fermé;face 1 AVENUE EMILE ET ARMAND MASSARD;17;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.297570046469314, 48.88888267432093]]}";48.8888826743,2.29757004647
+SANISETTES;Ouvert;135 AVENUE DE CLICHY;17;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.319670103069588, 48.89080735250064]]}";48.8908073525,2.31967010307
+SANISETTES;Ouvert;96 BOULEVARD BARBES;18;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3497411441355602, 48.89143639044488]]}";48.8914363904,2.34974114414
+SANISETTES;Ouvert;43 BOULEVARD BARBES;18;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.349430631664718, 48.88849413840531]]}";48.8884941384,2.34943063166
+SANISETTES;Fermé;135 RUE DAMREMONT;18;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.338269683499474, 48.8965489204548]]}";48.8965489205,2.3382696835
+SANISETTES;Ouvert;face 3 BOULEVARD NEY;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.369298128147713, 48.89877331075297]]}";48.8987733108,2.36929812815
+SANISETTES;Ouvert;9 AVENUE DE LA PORTE DE LA VILLETTE;19;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.386774783986592, 48.898974839975054]]}";48.89897484,2.38677478399
+SANISETTES;Fermé;face 196 BOULEVARD DE LA VILLETTE;19;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.370336342149233, 48.882213723425714]]}";48.8822137234,2.37033634215
+SANISETTES;Fermé;213 RUE DE BELLEVILLE;19;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.394776616457134, 48.87544598661789]]}";48.8754459866,2.39477661646
+SANISETTES;Fermé;64 RUE DU VOLGA;20;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.408988707402559, 48.85271966367163]]}";48.8527196637,2.4089887074
+SANISETTES;Ouvert;6 AVENUE DE LA PORTE DE MONTREUIL;20;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.411516383464487, 48.85380970359548]]}";48.8538097036,2.41151638346
+SANISETTES;Fermé;72 RUE DES AMANDIERS;20;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.38977745051532, 48.86628405302379]]}";48.866284053,2.38977745052
+SANISETTES;Fermé;34 RUE DURIS;20;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.387631832716169, 48.86596750742653]]}";48.8659675074,2.38763183272
+TOILETTES;;JARDIN D'EOLE - TERRAIN DE BASKET;75018;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/jardin-francoise-helene-jourda-ex-20-rue-du-departement-18075;"{""type"": ""MultiPoint"", ""coordinates"": [[2.36501249488385, 48.88664454218721]]}";48.8866445422,2.36501249488
+TOILETTES;;JARDIN HENRI SAUVAGE;75018;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/jardin-henri-sauvage-ex-square-amiraux-boinod-2702;"{""type"": ""MultiPoint"", ""coordinates"": [[2.352388044903167, 48.89412216072536]]}";48.8941221607,2.3523880449
+TOILETTES;;SQUARE JEAN XXIII;75004;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-jean-xxiii-35;"{""type"": ""MultiPoint"", ""coordinates"": [[2.35106433395671, 48.85284931455995]]}";48.8528493146,2.35106433396
+TOILETTES;;SQUARE GUSTAVE MESUREUR;75013;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-gustave-mesureur-2525;"{""type"": ""MultiPoint"", ""coordinates"": [[2.362528627050124, 48.83375567823723]]}";48.8337556782,2.36252862705
+TOILETTES;;SQUARE SAMUEL BECKETT;75013;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-joan-miro-2563;"{""type"": ""MultiPoint"", ""coordinates"": [[2.361947469994329, 48.81990547174471]]}";48.8199054717,2.36194746999
+TOILETTES;;SQUARE SAINT-LAMBERT;75015;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-saint-lambert-1768;"{""type"": ""MultiPoint"", ""coordinates"": [[2.297406063222037, 48.84277453561846]]}";48.8427745356,2.29740606322
+TOILETTES;;SQUARE BOUCICAUT;75007;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-boucicaut-2462;"{""type"": ""MultiPoint"", ""coordinates"": [[2.325645642508822, 48.85111943871574]]}";48.8511194387,2.32564564251
+TOILETTES;;SQUARE CHARLES PEGUY;75012;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-charles-peguy-2575;"{""type"": ""MultiPoint"", ""coordinates"": [[2.406140565653542, 48.83953772127824]]}";48.8395377213,2.40614056565
+TOILETTES;;SQUARE DES EPINETTES;75017;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-des-epinettes-2631;"{""type"": ""MultiPoint"", ""coordinates"": [[2.326850241067247, 48.894764964434124]]}";48.8947649644,2.32685024107
+TOILETTES;;SQUARE DU PASSAGE LEON;75018;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-saint-bernard-said-bouziri-2686;"{""type"": ""MultiPoint"", ""coordinates"": [[2.353323649348037, 48.885897360399426]]}";48.8858973604,2.35332364935
+TOILETTES;;SQUARE MONSEIGNEUR MAILLET;75019;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/jardin-du-regard-de-la-lanterne-2677;"{""type"": ""MultiPoint"", ""coordinates"": [[2.393158382368525, 48.87669393559697]]}";48.8766939356,2.39315838237
+LAVATORY;;1 rue Lamarck;75018;;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.343863211912109, 48.88626726174863]]}";48.8862672617,2.34386321191
+WC PUBLICS PERMANENTS;;Parc Rives de Seine;75004;;Non;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.353968199139136, 48.85349716617869]]}";48.8534971662,2.35396819914
+SANISETTES;Fermé;RUE COQUILLIERE;1;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.343822998713276, 48.86332092124087]]}";48.8633209212,2.34382299871
+SANISETTES;Fermé;69 BOULEVARD DE SEBASTOPOL;2;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.350962736416814, 48.86366249322703]]}";48.8636624932,2.35096273642
+SANISETTES;Fermé;85 BOULEVARD DE SEBASTOPOL;2;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.35161126358933, 48.8648280162637]]}";48.8648280163,2.35161126359
+SANISETTES;Ouvert;face 2 RUE AUBRY LE BOUCHER;4;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.350397746470584, 48.86021286930935]]}";48.8602128693,2.35039774647
+SANISETTES;Fermé;32 AVENUE GEORGE V;8;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.30122008119351, 48.868840348754716]]}";48.8688403488,2.30122008119
+SANISETTES;Ouvert;8 PLACE JACQUES BONSERGENT;10;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.36098426518001, 48.8710936939782]]}";48.871093694,2.36098426518
+SANISETTES;Ouvert;face 48 BOULEVARD VOLTAIRE;11;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.371039582240022, 48.86338089367277]]}";48.8633808937,2.37103958224
+SANISETTES;Ouvert;111 AVENUE DAUMESNIL;12;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.380317848061393, 48.84498445223605]]}";48.8449844522,2.38031784806
+URINOIR MOBILE;Ouvert;Avenue Denfert-Rochereau;75014;;;;1 urinoir;"{""type"": ""MultiPoint"", ""coordinates"": [[2.336392483401455, 48.8380611756795]]}";48.8380611757,2.3363924834
+SANISETTES;Fermé;AVENUE FRANKLIN D ROOSEVELT;8;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.310160918160172, 48.87014131314519]]}";48.8701413131,2.31016091816
+SANISETTES;Fermé;BOULEVARD MALESHERBES;8;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.323053984722453, 48.87072323445267]]}";48.8707232345,2.32305398472
+SANISETTES;Ouvert;3 BOULEVARD DE L HOPITAL;13;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.364334002626625, 48.84307404437706]]}";48.8430740444,2.36433400263
+SANISETTES;Fermé;103 BOULEVARD BRUNE;14;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.315053624154728, 48.825685892245296]]}";48.8256858922,2.31505362415
+SANISETTES;Fermé;131 AVENUE DU MAINE;14;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.324142757336265, 48.83487923125603]]}";48.8348792313,2.32414275734
+SANISETTES;Ouvert;face 231 RUE RAYMOND LOSSERAND;14;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.305654042759093, 48.82794450370339]]}";48.8279445037,2.30565404276
+SANISETTES;Fermé;139 RUE DE L ABBE GROULT;15;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.302595746538933, 48.83566847382636]]}";48.8356684738,2.30259574654
+SANISETTES;Fermé;face 22 PLACE DUPLEIX;15;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.29512258025372, 48.85104533855425]]}";48.8510453386,2.29512258025
+SANISETTES;Fermé;QUAI BRANLY;15;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.28986840169592, 48.85553274383494]]}";48.8555327438,2.2898684017
+SANISETTES;Fermé;16 AVENUE DE SAINT OUEN;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3259361111674, 48.888224506944354]]}";48.8882245069,2.32593611117
+SANISETTES;Ouvert;74 BOULEVARD DE CLICHY;18;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.333530253543147, 48.88353488261509]]}";48.8835348826,2.33353025354
+SANISETTES;Fermé;58 AVENUE DE FLANDRE;19;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.373749928304556, 48.88818203567653]]}";48.8881820357,2.3737499283
+SANISETTES;Fermé;92 RUE CURIAL;19;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.375661473541838, 48.895834539709824]]}";48.8958345397,2.37566147354
+SANISETTES;Fermé;2 RUE DE JOINVILLE;19;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.380702647901921, 48.889477761529356]]}";48.8894777615,2.3807026479
+SANISETTES;Fermé;PLACE DE L ADJUDANT VINCENOT;20;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.409358996058923, 48.870690811293336]]}";48.8706908113,2.40935899606
+TOILETTES;;BOIS DE BOULOGNE - JARDIN DU PRE CATELAN;75016;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/parc-de-bagatelle-1808;"{""type"": ""MultiPoint"", ""coordinates"": [[2.2523240882300373, 48.865617429829534]]}";48.8656174298,2.25232408823
+TOILETTES;;SQUARE SAINTE-ODILE;75017;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-sainte-odile-2642;"{""type"": ""MultiPoint"", ""coordinates"": [[2.29358154028354, 48.88785096993109]]}";48.8878509699,2.29358154028
+TOILETTES;;SQUARE LOUIS XIII;75004;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-louis-xiii-36;"{""type"": ""MultiPoint"", ""coordinates"": [[2.365276631815183, 48.85522108368081]]}";48.8552210837,2.36527663182
+TOILETTES;;SQUARE D'ESTIENNE D'ORVES;75009;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-d-estienne-d-orves-2472;"{""type"": ""MultiPoint"", ""coordinates"": [[2.331288524740739, 48.87684278657475]]}";48.8768427866,2.33128852474
+TOILETTES;;SQUARE ALEX BISCARRE;75009;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-alex-biscarre-2464;"{""type"": ""MultiPoint"", ""coordinates"": [[2.336728381553657, 48.87858749857325]]}";48.8785874986,2.33672838155
+TOILETTES;;SQUARE JULIETTE DODU;75010;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-juliette-dodu-2836;"{""type"": ""MultiPoint"", ""coordinates"": [[2.369380499264761, 48.875669096203]]}";48.8756690962,2.36938049926
+TOILETTES;;SQUARE TROUSSEAU;75012;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-trousseau-2576;"{""type"": ""MultiPoint"", ""coordinates"": [[2.376966221720433, 48.85002192132091]]}";48.8500219213,2.37696622172
+TOILETTES;;PARC DE PASSY;75016;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/parc-de-passy-2625;"{""type"": ""MultiPoint"", ""coordinates"": [[2.2829801125761, 48.8553646405576]]}";48.8553646406,2.28298011258
+TOILETTES;;JARDIN DU 122 RUE DES POISSONNIERS;75018;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-122-rue-des-poissonniers-17468;"{""type"": ""MultiPoint"", ""coordinates"": [[2.353273863532805, 48.89500623115916]]}";48.8950062312,2.35327386353
+SANISETTES;Fermé;135 AVENUE PARMENTIER;11;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.371160533263756, 48.86968423943513]]}";48.8696842394,2.37116053326
+SANISETTES;Fermé;4 PLACE ABBE GEORGES HENOCQUE;13;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.353095464368397, 48.82406568071868]]}";48.8240656807,2.35309546437
+SANISETTES;Ouvert;4 RUE MARTIN BERNARD;13;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.351328775975912, 48.8268991020181]]}";48.826899102,2.35132877598
+URINOIR MOBILE;Ouvert;Rue de Paradis;75010;;;;1 urinoir;"{""type"": ""MultiPoint"", ""coordinates"": [[2.353532399520868, 48.87480549167491]]}";48.8748054917,2.35353239952
+URINOIR MOBILE;Ouvert;66 Quai de Loire;75019;;;;1 rigole;"{""type"": ""MultiPoint"", ""coordinates"": [[2.376876317188278, 48.88646507049399]]}";48.8864650705,2.37687631719
+URINOIR MOBILE;Ouvert;BOULEVARD DE LA CHAPELLE;18;;;;1 urinoir;"{""type"": ""MultiPoint"", ""coordinates"": [[2.360287865986213, 48.88434620015451]]}";48.8843462002,2.36028786599
+CABINE MOBILE;Ouvert;BOULEVARD POISSONIIERE;9;;;;1 cabine;"{""type"": ""MultiPoint"", ""coordinates"": [[2.347806497169811, 48.87058182384501]]}";48.8705818238,2.34780649717
+SANISETTES;Fermé;face 159 AVENUE DE CHOISY;13;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.358453201102806, 48.828198365793185]]}";48.8281983658,2.3584532011
+SANISETTES;Ouvert;face 40 AVENUE REILLE;14;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.338538930462, 48.82444207894634]]}";48.8244420789,2.33853893046
+SANISETTES;Ouvert;1 AVENUE RENE COTY;14;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.332917144300073, 48.83313899250652]]}";48.8331389925,2.3329171443
+SANISETTES;Fermé;38 RUE CAMBRONNE;15;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.30189794395814, 48.84552661355718]]}";48.8455266136,2.30189794396
+SANISETTES;Ouvert;22 RUE GROS;16;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.275488761174221, 48.85129267928767]]}";48.8512926793,2.27548876117
+SANISETTES;Fermé;132 BOULEVARD BESSIERES;17;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.314293551735199, 48.894846104664346]]}";48.8948461047,2.31429355174
+SANISETTES;Fermé;face 1 AVENUE STEPHANE MALLARME;17;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.294364145838022, 48.88754004512377]]}";48.8875400451,2.29436414584
+SANISETTES;Ouvert;60 BOULEVARD DE LA CHAPELLE;18;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.355151477096697, 48.884205159907864]]}";48.8842051599,2.3551514771
+SANISETTES;Fermé;2 AVENUE DE LA PORTE DE SAINT OUEN;18;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.329375817479652, 48.89789971505309]]}";48.8978997151,2.32937581748
+SANISETTES;Fermé;29 RUE MANIN;19;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3782622313212523, 48.87861935487686]]}";48.8786193549,2.37826223132
+SANISETTES;Ouvert;12 RUE REBEVAL;19;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.376382294517342, 48.87407067949223]]}";48.8740706795,2.37638229452
+SANISETTES;Fermé;296 RUE DES PYRENEES;20;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.392052330778927, 48.871931093994846]]}";48.871931094,2.39205233078
+TOILETTES;;SQUARE ALAIN BASHUNG;75018;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-alain-bashung-15429;"{""type"": ""MultiPoint"", ""coordinates"": [[2.356093168659291, 48.88506257518371]]}";48.8850625752,2.35609316866
+TOILETTES;;BOIS DE BOULOGNE - PARC DE BAGATELLE - GRILLE DE SEVRES;75016;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/parc-de-bagatelle-1808;"{""type"": ""MultiPoint"", ""coordinates"": [[2.246175578808388, 48.87056564529141]]}";48.8705656453,2.24617557881
+TOILETTES;;SQUARE LEOPOLD ACHILLE;75003;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-leopold-achille-2431;"{""type"": ""MultiPoint"", ""coordinates"": [[2.363290758247611, 48.85822475886469]]}";48.8582247589,2.36329075825
+TOILETTES;;PARC MARCEL BLEUNSTEIN-BLANCHET;75018;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-marcel-bleustein-blanchet-2695;"{""type"": ""MultiPoint"", ""coordinates"": [[2.343535464560588, 48.887338740541466]]}";48.8873387405,2.34353546456
+TOILETTES;;JARDINS DE LA PORTE DE SAINT CLOUD;75016;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/jardins-de-la-porte-de-saint-cloud-et-square-roger-coquoin-2623;"{""type"": ""MultiPoint"", ""coordinates"": [[2.254693572298353, 48.835869491249895]]}";48.8358694912,2.2546935723
+TOILETTES;;SQUARE DE LA TOUR SAINT-JACQUES;75004;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-de-la-tour-saint-jacques-33;"{""type"": ""MultiPoint"", ""coordinates"": [[2.349321271888649, 48.85778654782919]]}";48.8577865478,2.34932127189
+TOILETTES;;SQUARE DU SERMENT DE KOUFRA;75014;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-du-serment-de-koufra-1773;"{""type"": ""MultiPoint"", ""coordinates"": [[2.323600153804334, 48.822256265999734]]}";48.822256266,2.3236001538
+TOILETTES;;JARDIN CATHERINE LABOURE;75007;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-catherine-laboure-2465;"{""type"": ""MultiPoint"", ""coordinates"": [[2.320485393255728, 48.85140130471326]]}";48.8514013047,2.32048539326
+TOILETTES;;SQUARE FROT-PHALSBOURG;75011;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-frot-phalsbourg-2845;"{""type"": ""MultiPoint"", ""coordinates"": [[2.385394116472173, 48.85582536021133]]}";48.8558253602,2.38539411647
+TOILETTES;;JARDIN NATUREL-PIERRE EMMANUEL;75020;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-lesseps-17432;"{""type"": ""MultiPoint"", ""coordinates"": [[2.399128749545261, 48.85873792339389]]}";48.8587379234,2.39912874955
+SANISETTES;Ouvert;39 PLACE DES DEUX ECUS;1;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.341836175822233, 48.863156681649215]]}";48.8631566816,2.34183617582
+SANISETTES;Ouvert;15 BOULEVARD SAINT DENIS;2;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.353502085687314, 48.869408298985206]]}";48.869408299,2.35350208569
+SANISETTES;Ouvert;123 RUE SAINT ANTOINE;4;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.360419701884549, 48.85530319788792]]}";48.8553031979,2.36041970188
+SANISETTES;Fermé;88 ter BOULEVARD DE PORT ROYAL;5;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.338731588164609, 48.83920071261067]]}";48.8392007126,2.33873158816
+SANISETTES;Ouvert;8 RUE JEAN CALVIN;5;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.348691572286761, 48.841640778050696]]}";48.8416407781,2.34869157229
+SANISETTES;Fermé;AVENUE DE L OBSERVATOIRE;6;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.337228424428142, 48.84222410041659]]}";48.8422241004,2.33722842443
+SANISETTES;Ouvert;PLACE VAUBAN;7;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.311319652738035, 48.853625040539285]]}";48.8536250405,2.31131965274
+SANISETTES;Ouvert;face 4 BOULEVARD RICHARD LENOIR;11;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.36970018383113, 48.853983171388194]]}";48.8539831714,2.36970018383
+SANISETTES;Ouvert;8 PLACE LEON BLUM;11;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.380242666953603, 48.85831317893598]]}";48.8583131789,2.38024266695
+SANISETTES;Fermé;26 BOULEVARD DE REUILLY;12;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.392302587363353, 48.83916534421364]]}";48.8391653442,2.39230258736
+SANISETTES;Ouvert;face 61 BOULEVARD AUGUSTE BLANQUI;13;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.349425440864941, 48.82948471703286]]}";48.829484717,2.34942544086
+SANISETTES;Fermé;AVENUE CLAUDE REGAUD;13;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.372763643662198, 48.822344736321774]]}";48.8223447363,2.37276364366
+URINOIR MOBILE;Ouvert;Rue Gaston Cavaillet;75015;;;;1 urinoir;"{""type"": ""MultiPoint"", ""coordinates"": [[2.283824969881143, 48.84923052451622]]}";48.8492305245,2.28382496988
+SANISETTES;Fermé;QUAI DE GESVRES;4;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.349796463968451, 48.856486160078234]]}";48.8564861601,2.34979646397
+SANISETTES;Fermé;88 AVENUE DU MAINE;14;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.322338362051345, 48.83811061304954]]}";48.838110613,2.32233836205
+SANISETTES;Fermé;RUE SAINT CHARLES;15;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.277982871077255, 48.83807356302152]]}";48.838073563,2.27798287108
+SANISETTES;Fermé;170 AVENUE DE VERSAILLES;16;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.2630781408913743, 48.83985538119863]]}";48.8398553812,2.26307814089
+SANISETTES;Fermé;51 BOULEVARD GOUVION SAINT CYR;17;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.286017525668917, 48.88188419300001]]}";48.881884193,2.28601752567
+SANISETTES;Fermé;1 RUE SAINT BRUNO;18;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.356270510591299, 48.88595754102246]]}";48.885957541,2.35627051059
+SANISETTES;Fermé;opposé au 94 RUE JEAN HENRI FABRE;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.335537439363272, 48.901061167312136]]}";48.9010611673,2.33553743936
+SANISETTES;Fermé;RUE DES FETES;19;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.392553578299811, 48.87706838934992]]}";48.8770683893,2.3925535783
+SANISETTES;Fermé;14 RUE MEYNADIER;19;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.383450508308367, 48.883501985506584]]}";48.8835019855,2.38345050831
+SANISETTES;Ouvert;52 QUAI DE LA LOIRE;19;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.375847653421224, 48.885803250412145]]}";48.8858032504,2.37584765342
+SANISETTES;Ouvert;9 COURS DE VINCENNES;20;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.400031592781938, 48.84826364818255]]}";48.8482636482,2.40003159278
+SANISETTES;Fermé;118 BOULEVARD DE CHARONNE;20;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.395955166955249, 48.8547611226117]]}";48.8547611226,2.39595516696
+TOILETTES;;JARDIN RACHMANINOV;75018;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/jardin-rachmaninov-2681;"{""type"": ""MultiPoint"", ""coordinates"": [[2.363815451695337, 48.89555859860546]]}";48.8955585986,2.3638154517
+TOILETTES;;JARDIN SERGE GAINSBOURG;75019;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/jardin-serge-gainsbourg-6337;"{""type"": ""MultiPoint"", ""coordinates"": [[2.408116526394867, 48.87834464094732]]}";48.8783446409,2.40811652639
+TOILETTES;;COULEE VERTE RENE DUMONT - PROMENADE DE LA RUE DU SAHEL;75012;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-charles-peguy-2575;"{""type"": ""MultiPoint"", ""coordinates"": [[2.402205294934227, 48.841005858981525]]}";48.841005859,2.40220529493
+TOILETTES;;SQUARE VIOLET;75015;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-violet-2531;"{""type"": ""MultiPoint"", ""coordinates"": [[2.289199564769723, 48.844292287340586]]}";48.8442922873,2.28919956477
+TOILETTES;;PARC ANDRE CITROEN;75015;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/parc-andre-citroen-1791;"{""type"": ""MultiPoint"", ""coordinates"": [[2.276196439464743, 48.84174621728004]]}";48.8417462173,2.27619643946
+TOILETTES;;PARC DE BELLEVILLE;75020;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/jardin-des-couronnes-2748;"{""type"": ""MultiPoint"", ""coordinates"": [[2.385561771177437, 48.87045899659526]]}";48.8704589966,2.38556177118
+TOILETTES;;PARC MONTSOURIS;75014;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-et-aire-de-jeux-de-la-zac-alesia-montsouris-2867;"{""type"": ""MultiPoint"", ""coordinates"": [[2.336944332056308, 48.82376169991306]]}";48.8237616999,2.33694433206
+TOILETTES;;SQUARE ARISTIDE CAVAILLE-COLL;75010;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-aristide-cavaille-coll-2481;"{""type"": ""MultiPoint"", ""coordinates"": [[2.35212188202011, 48.87832751275092]]}";48.8783275128,2.35212188202
+TOILETTES;;SQUARE ALEXANDRE ET RENE PARODI;75016;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-alexandre-et-rene-parodi-2752;"{""type"": ""MultiPoint"", ""coordinates"": [[2.28100617118407, 48.87626368925604]]}";48.8762636893,2.28100617118
+SANISETTES;Ouvert;55 BOULEVARD DE SEBASTOPOL;1;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.350203080907802, 48.862313183032356]]}";48.862313183,2.35020308091
+SANISETTES;Fermé;41 BOULEVARD BOURDON;4;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.368356693963534, 48.8526426890932]]}";48.8526426891,2.36835669396
+SANISETTES;Ouvert;face 75 bis RUE MONGE;5;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.35207298397874, 48.84312297015192]]}";48.8431229702,2.35207298398
+SANISETTES;Ouvert;26 RUE BUFFON;5;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.356224683117664, 48.841308049754275]]}";48.8413080498,2.35622468312
+SANISETTES;Ouvert;75 BOULEVARD SAINT GERMAIN;6;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.342803068261682, 48.851388278836424]]}";48.8513882788,2.34280306826
+SANISETTES;Fermé;186 BOULEVARD SAINT GERMAIN;6;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.330995211131629, 48.854428127216]]}";48.8544281272,2.33099521113
+SANISETTES;Fermé;40 RUE DE SEVRES;7;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.323054655081175, 48.84983487675197]]}";48.8498348768,2.32305465508
+SANISETTES;Fermé;130 ter BOULEVARD DE CLICHY;9;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.328969615964768, 48.884214349237055]]}";48.8842143492,2.32896961596
+SANISETTES;Ouvert;17 BOULEVARD DE ROCHECHOUART;9;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.34743316865442, 48.883420611557554]]}";48.8834206116,2.34743316865
+SANISETTES;Fermé;44 AVENUE PHILIPPE AUGUSTE;11;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.393718336174439, 48.85213697345383]]}";48.8521369735,2.39371833617
+SANISETTES;Fermé;164 BOULEVARD VOLTAIRE;11;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.38355339725316, 48.85564376523424]]}";48.8556437652,2.38355339725
+SANISETTES;Ouvert;123 BOULEVARD RICHARD LENOIR;11;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.369377340131359, 48.865841562591655]]}";48.8658415626,2.36937734013
+SANISETTES;Fermé;133 BOULEVARD DE CHARONNE;11;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.392451361323424, 48.85749370656371]]}";48.8574937066,2.39245136132
+SANISETTES;Ouvert;opposé au 16 PLACE DE LA NATION;12;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.395482550580248, 48.84744480307578]]}";48.8474448031,2.39548255058
+SANISETTES;Fermé;36 AVENUE DAUMESNIL;12;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.371083681974045, 48.849239292689276]]}";48.8492392927,2.37108368197
+SANISETTES;Ouvert;100 BOULEVARD AUGUSTE BLANQUI;13;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.344431701329784, 48.83113397852206]]}";48.8311339785,2.34443170133
+SANISETTES;Fermé;3 RUE MAURICE NOGUES;14;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.305343756075017, 48.826231659312086]]}";48.8262316593,2.30534375608
+SANISETTES;Fermé;82 BOULEVARD BRUNE;14;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.315807289747573, 48.82524477075133]]}";48.8252447708,2.31580728975
+SANISETTES;Fermé;83 RUE DESNOUETTES;15;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.284141147850295, 48.83462852331886]]}";48.8346285233,2.28414114785
+SANISETTES;Fermé;6 BOULEVARD DU MONTPARNASSE;15;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.316945653588202, 48.846521372658216]]}";48.8465213727,2.31694565359
+SANISETTES;Fermé;2 RUE JACQUES KELLNER;17;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.328040763341667, 48.89583555740396]]}";48.8958355574,2.32804076334
+SANISETTES;Fermé;3 RUE DE LA GOUTTE D OR;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.354863996144927, 48.885028142206096]]}";48.8850281422,2.35486399614
+SANISETTES;Ouvert;face 34 BOULEVARD DE CLICHY;18;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3367738949822803, 48.88256734476813]]}";48.8825673448,2.33677389498
+SANISETTES;Fermé;12 AVENUE DU PROFESSEUR ANDRE LEMIERE;20;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.415233912585556, 48.85532756366961]]}";48.8553275637,2.41523391259
+SANISETTES;Ouvert;1 RUE PAGANINI;20;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.411303344183451, 48.85142475093343]]}";48.8514247509,2.41130334418
+TOILETTES;;SQUARE RUES BELLEVILLE - TELEGRAPHE;75020;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-belleville-telegraphe-2724;"{""type"": ""MultiPoint"", ""coordinates"": [[2.399293408514616, 48.875194891123265]]}";48.8751948911,2.39929340851
+TOILETTES;;SQUARE DE LA PLACE DE LA REUNION;75020;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-de-la-place-de-la-reunion-2705;"{""type"": ""MultiPoint"", ""coordinates"": [[2.401508681870862, 48.85581626348992]]}";48.8558162635,2.40150868187
+TOILETTES;;SQUARE HENRI CADIOU;75013;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-henri-cadiou-2529;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3425014153332793, 48.83447425994399]]}";48.8344742599,2.34250141533
+TOILETTES;;PARC MONTSOURIS;75014;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/jardin-et-aire-de-jeux-de-la-zac-alesia-montsouris-2867;"{""type"": ""MultiPoint"", ""coordinates"": [[2.336591567464136, 48.82227702606083]]}";48.8222770261,2.33659156746
+TOILETTES;;SQUARE LEON SERPOLLET;75018;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-leon-serpollet-2665;"{""type"": ""MultiPoint"", ""coordinates"": [[2.339101315132648, 48.89225644637532]]}";48.8922564464,2.33910131513
+TOILETTES;;BOIS DE VINCENNES - PARC FLORAL DE PARIS - PINEDE;75012;Voir fiche équipement;Oui;Oui;https://www.paris.fr/equipements/parc-floral-de-paris-1;"{""type"": ""MultiPoint"", ""coordinates"": [[2.4446432672223812, 48.83825700612516]]}";48.8382570061,2.44464326722
+SANISETTES;Fermé;8 RUE D ARCOLE;4;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.349398891032556, 48.8540198901374]]}";48.8540198901,2.34939889103
+SANISETTES;Fermé;face 139 BOULEVARD SAINT MICHEL;6;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.337484628388991, 48.84175443253953]]}";48.8417544325,2.33748462839
+SANISETTES;Ouvert;RUE VIGNON;8;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.326530446470896, 48.87252784014988]]}";48.8725278401,2.32653044647
+SANISETTES;Ouvert;51 QUAI DE VALMY;10;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.365863387720789, 48.87027367959495]]}";48.8702736796,2.36586338772
+SANISETTES;Fermé;2 RUE FERNAND FOUREAU;12;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.411269397772902, 48.8461981514924]]}";48.8461981515,2.41126939777
+SANISETTES;Fermé;face 129 RUE DE LA GLACIERE;13;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.341806493177042, 48.826690707467044]]}";48.8266907075,2.34180649318
+SANISETTES;Fermé;RUE SAINT ANTOINE;4;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.360419701884549, 48.85530319788792]]}";48.8553031979,2.36041970188
+SANISETTES;Fermé;RUE ORTOLON;5;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.350590246372097, 48.8431945688025]]}";48.8431945688,2.35059024637
+CABINE MOBILE;Ouvert;BOULEVARD MONTMARTRE;9;;;;1 cabine;"{""type"": ""MultiPoint"", ""coordinates"": [[2.342937051392899, 48.871445683101896]]}";48.8714456831,2.34293705139
+SANISETTES;Fermé;BOULEVARD DE L HOPITAL;13;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.361754666816262, 48.83963427904555]]}";48.839634279,2.36175466682
+SANISETTES;Ouvert;AVENUE DU MAINE;14;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.325309655442211, 48.83226021863131]]}";48.8322602186,2.32530965544
+SANISETTES;Fermé;18 AVENUE DE LA PORTE DE VANVES;14;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.304138725656074, 48.825507784271]]}";48.8255077843,2.30413872566
+SANISETTES;Fermé;76 RUE BRANCION;15;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.302733485419518, 48.83192956134313]]}";48.8319295613,2.30273348542
+SANISETTES;Fermé;68 RUE DE LA PROCESSION;15;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.309823199313869, 48.836413614647896]]}";48.8364136146,2.30982319931
+SANISETTES;Fermé;25 AVENUE DE LOWENDAL;15;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3035640343865422, 48.849184708415834]]}";48.8491847084,2.30356403439
+SANISETTES;Fermé;face 5 PLACE DU COMMERCE;15;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.292182467856254, 48.845378213876145]]}";48.8453782139,2.29218246786
+SANISETTES;Ouvert;4 AVENUE NIEL;17;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.294473730079965, 48.87892079748371]]}";48.8789207975,2.29447373008
+SANISETTES;Fermé;face 154 RUE ORDENER;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.336892089522764, 48.893502448951644]]}";48.893502449,2.33689208952
+TOILETTES;;SQUARE MAURICE KRIEGEL-VALRIMONT DIT SQUARE DE CLIGNANCOURT;75018;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-maurice-kriegel-valrimont-ex-de-clignancourt-2651;"{""type"": ""MultiPoint"", ""coordinates"": [[2.346425110390599, 48.89324524823646]]}";48.8932452482,2.34642511039
+TOILETTES;;JARDINS ROSA LUXEMBOURG;75018;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardins-rosa-luxemburg-17580;"{""type"": ""MultiPoint"", ""coordinates"": [[2.363501324901452, 48.88975238967336]]}";48.8897523897,2.3635013249
+TOILETTES;;SQUARE DU TEMPLE;75003;Voir fiche équipement;Non;Oui;https://www.paris.fr/equipements/square-du-temple-elie-wiesel-2425;"{""type"": ""MultiPoint"", ""coordinates"": [[2.360499747594259, 48.864286491471404]]}";48.8642864915,2.36049974759
+TOILETTES;;SQUARE DU CARDINAL WYSZINSKI;75014;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-du-cardinal-wyszynski-2549;"{""type"": ""MultiPoint"", ""coordinates"": [[2.316402806531694, 48.83654537380638]]}";48.8365453738,2.31640280653
+TOILETTES;;SQUARE FRANCIS LEMARQUE;75011;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-francis-lemarque-2844;"{""type"": ""MultiPoint"", ""coordinates"": [[2.376699589913922, 48.85600860589478]]}";48.8560086059,2.37669958991
+TOILETTES;;JARDIN ILAN HALIMI (ANC. RUE DE FECAMP - MICHEL BIZOT);75012;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-ilan-halimi-2595;"{""type"": ""MultiPoint"", ""coordinates"": [[2.401190946770578, 48.83625106997376]]}";48.83625107,2.40119094677
+TOILETTES;;JARDIN DU RANELAGH;75016;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/jardin-du-ranelagh-1778;"{""type"": ""MultiPoint"", ""coordinates"": [[2.268313503528244, 48.85825224076739]]}";48.8582522408,2.26831350353
+TOILETTES;;SQUARE DES BATIGNOLLES;75017;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-des-batignolles-1761;"{""type"": ""MultiPoint"", ""coordinates"": [[2.317249787799816, 48.887198683574034]]}";48.8871986836,2.3172497878
+SANISETTES;Fermé;44 RUE BERGER;1;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.342203221829112, 48.86234030275965]]}";48.8623403028,2.34220322183
+SANISETTES;Fermé;73 RUE REAUMUR;2;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.349571365122188, 48.86679354360574]]}";48.8667935436,2.34957136512
+SANISETTES;Fermé;face 13 PLACE DE LA BOURSE;2;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.34062639508409, 48.86891836470313]]}";48.8689183647,2.34062639508
+SANISETTES;Fermé;117 RUE MONTMARTRE;2;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.343235945649155, 48.86874906648296]]}";48.8687490665,2.34323594565
+SANISETTES;Fermé;90 BOULEVARD DE SEBASTOPOL;3;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.352544366189737, 48.86601791753035]]}";48.8660179175,2.35254436619
+SANISETTES;Fermé;RUE CUVIER;5;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.360394697155951, 48.84439660262885]]}";48.8443966026,2.36039469716
+SANISETTES;Fermé;COURS LA REINE;8;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.318088034663091, 48.86514883797138]]}";48.865148838,2.31808803466
+SANISETTES;Ouvert;21 RUE D AMSTERDAM;9;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.327036875810606, 48.877605646896434]]}";48.8776056469,2.32703687581
+SANISETTES;Fermé;11 AVENUE TRUDAINE;9;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.345516263472959, 48.88166539264047]]}";48.8816653926,2.34551626347
+SANISETTES;Ouvert;65 BOULEVARD DE CLICHY;9;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.331784835499315, 48.88398130352188]]}";48.8839813035,2.3317848355
+SANISETTES;Ouvert;RUE DU FAUBOURG DU TEMPLE;11;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.365320295334627, 48.868029196720336]]}";48.8680291967,2.36532029533
+SANISETTES;Ouvert;54 BOULEVARD DU TEMPLE;11;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.36500325622195, 48.86622478521031]]}";48.8662247852,2.36500325622
+SANISETTES;Fermé;135 RUE DE LA ROQUETTE;11;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.383945551395375, 48.85869214568334]]}";48.8586921457,2.3839455514
+SANISETTES;Ouvert;face 86 BOULEVARD RICHARD LENOIR;11;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.37266335372367, 48.861740756010526]]}";48.861740756,2.37266335372
+SANISETTES;Fermé;face 4 AVENUE CLAUDE VELLEFAUX;10;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.369583030462242, 48.872315075210196]]}";48.8723150752,2.36958303046
+SANISETTES;Fermé;61 BOULEVARD DE LA VILLETTE;10;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.372183544560666, 48.876196045250836]]}";48.8761960453,2.37218354456
+SANISETTES;Fermé;RUE ROBERT BLACHE;10;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.363990501903871, 48.87701431314924]]}";48.8770143131,2.3639905019
+SANISETTES;Fermé;face 182 RUE DU FAUBOURG SAINT MARTIN;10;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.361645690432077, 48.878147412171884]]}";48.8781474122,2.36164569043
+SANISETTES;Ouvert;face 98 QUAI DE LA RAPEE;12;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.367027805657553, 48.84600859329504]]}";48.8460085933,2.36702780566
+SANISETTES;Fermé;126 BOULEVARD DE L HOPITAL;13;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.357805850885123, 48.834805438287674]]}";48.8348054383,2.35780585089
+URINOIR MOBILE;Ouvert;77 Quai de Valmy;75010;;;;1 rigole;"{""type"": ""MultiPoint"", ""coordinates"": [[2.364232449376695, 48.87237442537538]]}";48.8723744254,2.36423244938
+SANISETTES;Fermé;RUE DE SEVRES;7;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.323054655081175, 48.84983487675197]]}";48.8498348768,2.32305465508
+SANISETTES;Fermé;face 32 BOULEVARD EDGAR QUINET;14;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.326831211101864, 48.84047147744345]]}";48.8404714774,2.3268312111
+SANISETTES;Fermé;364 RUE LECOURBE;15;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.281691816923769, 48.836240943583995]]}";48.8362409436,2.28169181692
+SANISETTES;Fermé;64 AVENUE DE LA GRANDE ARMEE;17;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.285950309757017, 48.87692989046236]]}";48.8769298905,2.28595030976
+SANISETTES;Fermé;29 RUE ERNESTINE;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.354609715503173, 48.89045444451696]]}";48.8904544445,2.3546097155
+SANISETTES;Fermé;face 90 BOULEVARD DE LA CHAPELLE;18;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.353429267194319, 48.884078653316436]]}";48.8840786533,2.35342926719
+SANISETTES;Fermé;177 AVENUE DE FLANDRE;19;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.382026907945858, 48.89474105377586]]}";48.8947410538,2.38202690795
+SANISETTES;Fermé;3 RUE BOTZARIS;19;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.381250830015357, 48.877863914358414]]}";48.8778639144,2.38125083002
+SANISETTES;Fermé;101 RUE ALEXANDRE DUMAS;20;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.400081520777228, 48.855403987768895]]}";48.8554039878,2.40008152078
+SANISETTES;Fermé;1 RUE DE BUZENVAL;20;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.402583928887361, 48.84910044336136]]}";48.8491004434,2.40258392889
+TOILETTES;;SQUARE DE L'AVENUE BOUTROUX;75013;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/jardin-clara-zetkin-ex-square-boutroux-2517;"{""type"": ""MultiPoint"", ""coordinates"": [[2.375899565672565, 48.82166499053291]]}";48.8216649905,2.37589956567
+TOILETTES;;SQUARE SAINT-ELOI;75012;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-saint-eloi-2597;"{""type"": ""MultiPoint"", ""coordinates"": [[2.387662295775836, 48.84457582856606]]}";48.8445758286,2.38766229578
+TOILETTES;;PARC MONTSOURIS;75014;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/jardin-et-aire-de-jeux-de-la-zac-alesia-montsouris-2867;"{""type"": ""MultiPoint"", ""coordinates"": [[2.339848934049351, 48.82416257802962]]}";48.824162578,2.33984893405
+TOILETTES;;JARDIN DU PORT DE L'ARSENAL;75012;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/jardin-du-port-de-l-arsenal-1783;"{""type"": ""MultiPoint"", ""coordinates"": [[2.367618921882219, 48.84888019194627]]}";48.8488801919,2.36761892188
+SANISETTES;Fermé;17 AVENUE VICTORIA;1;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.346535672660024, 48.857970439927115]]}";48.8579704399,2.34653567266
+SANISETTES;Ouvert;face 4 AVENUE DE MESSINE;8;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.315115171552736, 48.87541798841174]]}";48.8754179884,2.31511517155
+SANISETTES;Fermé;57 BOULEVARD DIDEROT;12;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.384207324504984, 48.84713481514029]]}";48.8471348151,2.3842073245
+SANISETTES;Ouvert;RUE DU FAUBOURG SAINT DENIS;10;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.356251357404286, 48.875775391755184]]}";48.8757753918,2.3562513574
+SANISETTES;Ouvert;3 RUE AMBROISE PARE;10;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.353238345856508, 48.881814396150844]]}";48.8818143962,2.35323834586
+SANISETTES;Fermé;5 BOULEVARD KELLERMANN;13;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.357591218548521, 48.81897694760634]]}";48.8189769476,2.35759121855
+SANISETTES;Fermé;RUE SAINT JACQUES;5;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.343987824033075, 48.84781204558067]]}";48.8478120456,2.34398782403
+SANISETTES;Fermé;SQUARE ALESIA RIDER;14;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.325254307572461, 48.82837430991983]]}";48.8283743099,2.32525430757
+SANISETTES;Fermé;BOULEVARD DE DENAIN;10;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.354189523068228, 48.879128874649425]]}";48.8791288746,2.35418952307
+SANISETTES;Fermé;26 PLACE JEANNE D ARC;13;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.368968163478483, 48.829779950288575]]}";48.8297799503,2.36896816348
+SANISETTES;Ouvert;87 AVENUE D ITALIE;13;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.358126804816616, 48.82394344207883]]}";48.8239434421,2.35812680482
+SANISETTES;Fermé;2 BOULEVARD JOURDAN;14;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.34433502420897, 48.81898671945179]]}";48.8189867195,2.34433502421
+SANISETTES;Fermé;98 BOULEVARD ARAGO;14;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.336803885060248, 48.834735549474466]]}";48.8347355495,2.33680388506
+SANISETTES;Fermé;189 RUE D ALESIA;14;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.316109393517265, 48.83125608516332]]}";48.8312560852,2.31610939352
+SANISETTES;Fermé;opposé 39 BOULEVARD DE L AMIRAL BRUIX;16;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.279587765082182, 48.875427964189015]]}";48.8754279642,2.27958776508
+SANISETTES;Fermé;23 RUE LAMBERT;18;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3451542761026403, 48.889063914793674]]}";48.8890639148,2.3451542761
+SANISETTES;Fermé;AVENUE DE LA PORTE DE CLIGNANCOURT;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.344441605047737, 48.9011330331849]]}";48.9011330332,2.34444160505
+SANISETTES;Ouvert;6 RUE DE PANAMA;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.352751478367211, 48.88762677637511]]}";48.8876267764,2.35275147837
+SANISETTES;Fermé;2 RUE RONSARD;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.344346951405808, 48.88511234133796]]}";48.8851123413,2.34434695141
+SANISETTES;Fermé;face 5 AVENUE DE LAUMIERE;19;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.381421987092033, 48.88302878255986]]}";48.8830287826,2.38142198709
+SANISETTES;Fermé;7 RUE DE CAMBRAI;19;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3789629758483413, 48.895495351952356]]}";48.895495352,2.37896297585
+SANISETTES;Ouvert;AVENUE DU PROFESSEUR ANDRE LEMIERE;20;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.414715111410584, 48.85833811315611]]}";48.8583381132,2.41471511141
+TOILETTES;;JARDIN DE LA GARE DE CHARONNE;75020;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-de-la-gare-de-charonne-2693;"{""type"": ""MultiPoint"", ""coordinates"": [[2.409416942955489, 48.85201539306615]]}";48.8520153931,2.40941694296
+TOILETTES;;BOIS DE VINCENNES - PARC FLORAL DE PARIS - CHATEAU;75012;Voir fiche équipement;Oui;Oui;https://www.paris.fr/equipements/parc-floral-de-paris-1;"{""type"": ""MultiPoint"", ""coordinates"": [[2.440768213104734, 48.8399284317324]]}";48.8399284317,2.4407682131
+TOILETTES;;JARDIN DES CENDRIERS (DIT DES AMANDIERS);75020;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-des-amandiers-2700;"{""type"": ""MultiPoint"", ""coordinates"": [[2.387748023702788, 48.8659772751344]]}";48.8659772751,2.3877480237
+TOILETTES;;SQUARE EMMANUEL FLEURY;75020;Voir fiche équipement;Non;Oui;https://www.paris.fr/equipements/square-emmanuel-fleury-2720;"{""type"": ""MultiPoint"", ""coordinates"": [[2.411264956080894, 48.8708129956025]]}";48.8708129956,2.41126495608
+TOILETTES;;JARDIN PAUL DIDIER;75017;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-paul-didier-ex-colonel-manhes-2819;"{""type"": ""MultiPoint"", ""coordinates"": [[2.320485641136297, 48.89546130163387]]}";48.8954613016,2.32048564114
+TOILETTES;;JARDIN VILLEMIN;75010;Voir fiche équipement;Non;Oui;https://www.paris.fr/equipements/jardin-villemin-1798;"{""type"": ""MultiPoint"", ""coordinates"": [[2.360586587773963, 48.87495187562732]]}";48.8749518756,2.36058658777
+TOILETTES;;PARC DES BUTTES CHAUMONT;75004;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/parc-des-buttes-chaumont-1757;"{""type"": ""MultiPoint"", ""coordinates"": [[2.382729246173076, 48.87945225471852]]}";48.8794522547,2.38272924617
+WC PUBLICS PERMANENTS;;Boulevard Arago;75014;24 h / 24;Non;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.340827692229535, 48.83468779460271]]}";48.8346877946,2.34082769223
+SANISETTES;Ouvert;9 BOULEVARD SAINT GERMAIN;5;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.354846182358385, 48.849330262603885]]}";48.8493302626,2.35484618236
+SANISETTES;Fermé;face 73 BOULEVARD SAINT MICHEL;6;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.340044296677426, 48.84612923935423]]}";48.8461292394,2.34004429668
+SANISETTES;Fermé;2 PLACE JOFFRE;7;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.305083210870264, 48.854301176148155]]}";48.8543011761,2.30508321087
+SANISETTES;Ouvert;51 BOULEVARD DE COURCELLES;8;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.304028164576791, 48.879227198587344]]}";48.8792271986,2.30402816458
+SANISETTES;Fermé;PLACE DU COLONEL FABIEN;10;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.37008389883369, 48.87798177436245]]}";48.8779817744,2.37008389883
+SANISETTES;Fermé;125 AVENUE LEDRU ROLLIN;11;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3776669195092612, 48.85413586971285]]}";48.8541358697,2.37766691951
+SANISETTES;Fermé;82 AVENUE DE LA REPUBLIQUE;11;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.37952312138287, 48.86424208661518]]}";48.8642420866,2.37952312138
+SANISETTES;Fermé;opposé 52 bis BOULEVARD RICHARD LENOIR;11;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.37200200665522, 48.85930978120497]]}";48.8593097812,2.37200200666
+SANISETTES;Fermé;11-29 BOULEVARD JULES FERRY;11;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.368575496201813, 48.86729232571321]]}";48.8672923257,2.3685754962
+SANISETTES;Ouvert;face au 1 RUE DE METZ;10;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.354561497762248, 48.87075131711197]]}";48.8707513171,2.35456149776
+SANISETTES;Fermé;116 QUAI DE JEMMAPES;10;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.363649699340373, 48.87492457138504]]}";48.8749245714,2.36364969934
+SANISETTES;Ouvert;face 1 BOULEVARD DE REUILLY;12;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.389572937934319, 48.83894041055916]]}";48.8389404106,2.38957293793
+URINOIR MOBILE;Ouvert;Rue Perrée;75010;;Non;;3 urinoirs;"{""type"": ""MultiPoint"", ""coordinates"": [[2.362511730742995, 48.864086949757265]]}";48.8640869498,2.36251173074
+SANISETTES;Fermé;BOULEVARD SAINT MICHEL;6;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.337484628388991, 48.84175443253953]]}";48.8417544325,2.33748462839
+SANISETTES;Fermé;JARDIN DU CHAMPS DE MARS;7;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.300536612101094, 48.8548917342077]]}";48.8548917342,2.3005366121
+SANISETTES;Fermé;BOULEVARD ARAGO;13;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.346369907448935, 48.83496155198776]]}";48.834961552,2.34636990745
+SANISETTES;Fermé;face 30 AVENUE REILLE;14;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.339488403872547, 48.82454102425052]]}";48.8245410243,2.33948840387
+SANISETTES;Fermé;face 18 AVENUE DU GENERAL LECLERC;14;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.330940750030464, 48.83234245020399]]}";48.8323424502,2.33094075003
+SANISETTES;Fermé;AVENUE DE SUFFREN;15;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.308909490180235, 48.846023120096504]]}";48.8460231201,2.30890949018
+SANISETTES;Ouvert;224 AVENUE DE VERSAILLES;16;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.258619846101936, 48.83839708065922]]}";48.8383970807,2.2586198461
+SANISETTES;Fermé;9 QUAI LOUIS BLERIOT;16;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.277890989978299, 48.85083039519224]]}";48.8508303952,2.27789098998
+SANISETTES;Ouvert;face 17 RUE POLONCEAU;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.353401466086345, 48.88563235320071]]}";48.8856323532,2.35340146609
+SANISETTES;Fermé;23 BOULEVARD NEY;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.362386603106506, 48.8984120785467]]}";48.8984120785,2.36238660311
+SANISETTES;Fermé;RUE DE LA CROIX SAINT SIMON;20;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.409918203488957, 48.85577188047998]]}";48.8557718805,2.40991820349
+SANISETTES;Fermé;6 PLACE DE LA PORTE DE BAGNOLET;20;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.408985779271119, 48.86412097368338]]}";48.8641209737,2.40898577927
+SANISETTES;Fermé;3 RUE SORBIER;20;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.389888644388741, 48.8684257392606]]}";48.8684257393,2.38988864439
+TOILETTES;;BOIS DE BOULOGNE - PARC DE BAGATELLE - GRILLE D'HONNEUR;75016;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/parc-de-bagatelle-1808;"{""type"": ""MultiPoint"", ""coordinates"": [[2.248019578481179, 48.86883301602136]]}";48.868833016,2.24801957848
+TOILETTES;;SQUARE DE L'OISEAU LUNAIRE;75015;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-de-l-oiseau-lunaire-ex-blomet-2519;"{""type"": ""MultiPoint"", ""coordinates"": [[2.305588174307816, 48.842135463891644]]}";48.8421354639,2.30558817431
+TOILETTES;;JARDIN BRASSAI;75013;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-brassai-2571;"{""type"": ""MultiPoint"", ""coordinates"": [[2.349436628957497, 48.828587086078144]]}";48.8285870861,2.34943662896
+TOILETTES;;SQUARE D'ANVERS;75009;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-d-anvers-2468;"{""type"": ""MultiPoint"", ""coordinates"": [[2.34413295595609, 48.88238662258446]]}";48.8823866226,2.34413295596
+TOILETTES;;JARDIN DAMIA;75011;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-damia-2734;"{""type"": ""MultiPoint"", ""coordinates"": [[2.394009135967313, 48.8547522453211]]}";48.8547522453,2.39400913597
+TOILETTES;;SQUARE SUZANNE BUISSON;75018;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-suzanne-buisson-2688;"{""type"": ""MultiPoint"", ""coordinates"": [[2.337110158514507, 48.88837160641975]]}";48.8883716064,2.33711015851
+SANISETTES;Fermé;face 34 RUE DU GRENIER SAINT LAZARE;3;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.352717714733575, 48.8630936107319]]}";48.8630936107,2.35271771473
+SANISETTES;Ouvert;4 RUE POLIVEAU;5;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.361273263570859, 48.840393317702386]]}";48.8403933177,2.36127326357
+SANISETTES;Fermé;135bis BOULEVARD DU MONTPARNASSE;6;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.332328604387268, 48.841202569450836]]}";48.8412025695,2.33232860439
+SANISETTES;Ouvert;45 BOULEVARD DE ROCHECHOUART;9;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.343497799728155, 48.882709085896316]]}";48.8827090859,2.34349779973
+SANISETTES;Fermé;3 RUE DE MONTREUIL;11;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.384037963215138, 48.850431570799614]]}";48.8504315708,2.38403796322
+SANISETTES;Ouvert;face 85 bis BOULEVARD DE MAGENTA;10;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.355100900623778, 48.87715340155667]]}";48.8771534016,2.35510090062
+SANISETTES;Fermé;7 RUE JOSEPH CHAILLEY;12;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.40401437963367, 48.83322595005884]]}";48.8332259501,2.40401437963
+SANISETTES;Fermé;12 BOULEVARD DE BERCY;12;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.378218628043352, 48.839621340961756]]}";48.839621341,2.37821862804
+SANISETTES;Fermé;RUE HENRI HUCHARD;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.334164088675307, 48.898997853477596]]}";48.8989978535,2.33416408868
+SANISETTES;Fermé;53 BOULEVARD SAINT MARCEL;13;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.355645972582187, 48.837911595474374]]}";48.8379115955,2.35564597258
+SANISETTES;Fermé;21 RUE DE GERGOVIE;14;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.314561721364447, 48.833925435692954]]}";48.8339254357,2.31456172136
+SANISETTES;Ouvert;63 AVENUE DU GENERAL LECLERC;14;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.327979589558433, 48.82896483276907]]}";48.8289648328,2.32797958956
+SANISETTES;Fermé;161 BOULEVARD BRUNE;14;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.321116922699177, 48.82434142990772]]}";48.8243414299,2.3211169227
+SANISETTES;Fermé;147 RUE VERCINGETORIX;14;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.311419179565337, 48.83257405441342]]}";48.8325740544,2.31141917957
+SANISETTES;Fermé;16 AVENUE DU PARC DES PRINCES;16;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.254610908740306, 48.84122995590826]]}";48.8412299559,2.25461090874
+SANISETTES;Fermé;opposé 22 BOULEVARD DES BATIGNOLLES;17;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.325230210633042, 48.88309755113287]]}";48.8830975511,2.32523021063
+SANISETTES;Ouvert;opposé au 17 RUE LIEUTENANT COLONEL DAX;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.340228067255163, 48.900705833417085]]}";48.9007058334,2.34022806726
+SANISETTES;Fermé;opposé au 35 RUE BOINOD;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.351762865066177, 48.894130055640744]]}";48.8941300556,2.35176286507
+SANISETTES;Fermé;face 107 AVENUE JEAN JAURES;19;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.381014907216359, 48.88552389113011]]}";48.8855238911,2.38101490722
+SANISETTES;Ouvert;69 AVENUE DE FLANDRE;19;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.373924071910594, 48.888695362745985]]}";48.8886953627,2.37392407191
+SANISETTES;Fermé;34 BOULEVARD DE BELLEVILLE;20;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.381897995848262, 48.86834301160021]]}";48.8683430116,2.38189799585
+SANISETTES;Fermé;face 121 RUE DES PYRENEES;20;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.404517268525465, 48.85704901565088]]}";48.8570490157,2.40451726853
+TOILETTES;;BOIS DE VINCENNES - PLATEAU DE SAINT-MANDE;75012;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/parc-floral-de-paris-1;"{""type"": ""MultiPoint"", ""coordinates"": [[2.420418982190451, 48.84310448292203]]}";48.8431044829,2.42041898219
+TOILETTES;;SQUARE JEAN MOULIN;75014;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-jean-moulin-2589;"{""type"": ""MultiPoint"", ""coordinates"": [[2.318778523318068, 48.82377533658264]]}";48.8237753366,2.31877852332
+TOILETTES;;JARDIN DE L'HOPITAL SAINTE-PERINE;75014;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/parc-sainte-perine-1806;"{""type"": ""MultiPoint"", ""coordinates"": [[2.268623313467747, 48.84388177705817]]}";48.8438817771,2.26862331347
+TOILETTES;;JARDIN DES POETES;75016;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-des-poetes-2778;"{""type"": ""MultiPoint"", ""coordinates"": [[2.256663508363861, 48.84762442808565]]}";48.8476244281,2.25666350836
+TOILETTES;;SQUARE CLAUDE BERNARD;75019;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-claude-bernard-2682;"{""type"": ""MultiPoint"", ""coordinates"": [[2.374464613571059, 48.899251737173394]]}";48.8992517372,2.37446461357
+SANISETTES;Ouvert;107 RUE RAMBUTEAU;1;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.346392662102407, 48.86274833004129]]}";48.86274833,2.3463926621
+SANISETTES;Ouvert;QUAI DE L HOTEL DE VILLE;4;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.356023599656361, 48.854150671810245]]}";48.8541506718,2.35602359966
+SANISETTES;Fermé;41 PLACE DE FINLANDE;7;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.310808622720738, 48.86247699359682]]}";48.8624769936,2.31080862272
+SANISETTES;Fermé;12 PLACE GEORGES GUILLAUMIN;8;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.303210664567426, 48.87477424791767]]}";48.8747742479,2.30321066457
+SANISETTES;Fermé;opposé 13 BOULEVARD DE MENILMONTANT;11;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.389122267946412, 48.85923461154838]]}";48.8592346115,2.38912226795
+SANISETTES;Fermé;18 AVENUE JEAN AICARD;11;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.380958599624835, 48.86569698373071]]}";48.8656969837,2.38095859962
+SANISETTES;Ouvert;RUE DU FAUBOURG SAINT MARTIN;10;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.360463576080205, 48.8757495133514]]}";48.8757495134,2.36046357608
+SANISETTES;Ouvert;face 1 BOULEVARD DE LA VILLETTE;10;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.376627952756624, 48.8722796194314]]}";48.8722796194,2.37662795276
+SANISETTES;Ouvert;29 RUE ROLAND BARTHES;12;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3774441851341352, 48.8444926838465]]}";48.8444926838,2.37744418513
+SANISETTES;Fermé;117 BOULEVARD VINCENT AURIOL;13;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.365126312854549, 48.833717304602885]]}";48.8337173046,2.36512631285
+URINOIR MOBILE;Ouvert;Place Saint-Marthe;75010;;;;1 urinoir;"{""type"": ""MultiPoint"", ""coordinates"": [[2.37264150453387, 48.87418287637335]]}";48.8741828764,2.37264150453
+SANISETTES;Fermé;RUE CESARIA EVORA;19;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.377469825874642, 48.89769666177365]]}";48.8976966618,2.37746982587
+SANISETTES;Ouvert;RUE CLISSON;13;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3653014793666163, 48.829376228032494]]}";48.829376228,2.36530147937
+SANISETTES;Ouvert;face 297 BOULEVARD RASPAIL;14;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.332118769771474, 48.83481048849861]]}";48.8348104885,2.33211876977
+SANISETTES;Fermé;BOULEVARD SUCHET;16;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.26822808578965, 48.86236196660649]]}";48.8623619666,2.26822808579
+SANISETTES;Fermé;2 RUE MONTCALM;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.335221479388062, 48.89178882470802]]}";48.8917888247,2.33522147939
+SANISETTES;Ouvert;PLACE SUZANNE VALADON;18;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.342736029209813, 48.8844550476974]]}";48.8844550477,2.34273602921
+SANISETTES;Ouvert;138 RUE DES POISSONNIERS;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.353016460359746, 48.89635962022954]]}";48.8963596202,2.35301646036
+SANISETTES;Fermé;AVENUE DE LA PORTE BRUNET;19;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.397859680104272, 48.88389762041914]]}";48.8838976204,2.3978596801
+SANISETTES;Fermé;157 RUE DE MENILMONTANT;20;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.39820179219435, 48.87058588945123]]}";48.8705858895,2.39820179219
+TOILETTES;;JARDIN CYPRIAN KAMIL NORWID;75013;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-cyprian-norwid-2859;"{""type"": ""MultiPoint"", ""coordinates"": [[2.377540667126578, 48.82811812852847]]}";48.8281181285,2.37754066713
+TOILETTES;;SQUARE HELENE BOUCHER;75013;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-helene-boucher-2513;"{""type"": ""MultiPoint"", ""coordinates"": [[2.360310535077049, 48.81872280946736]]}";48.8187228095,2.36031053508
+TOILETTES;;JARDIN BERTHE MORISOT;75013;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-berthe-morisot-2561;"{""type"": ""MultiPoint"", ""coordinates"": [[2.37483450104622, 48.82620278372308]]}";48.8262027837,2.37483450105
+TOILETTES;;SQUARE DE LA RUE DE CHATILLON;75014;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-lionel-assouad-2735;"{""type"": ""MultiPoint"", ""coordinates"": [[2.322543511934719, 48.82795466104957]]}";48.827954661,2.32254351193
+TOILETTES;;SQUARE EMMANUEL FLEURY;75020;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-emmanuel-fleury-2720;"{""type"": ""MultiPoint"", ""coordinates"": [[2.411086913613466, 48.869910698557405]]}";48.8699106986,2.41108691361
+TOILETTES;;PARC ANDRE CITROEN;75015;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/parc-andre-citroen-1791;"{""type"": ""MultiPoint"", ""coordinates"": [[2.279059099562375, 48.8403808019196]]}";48.8403808019,2.27905909956
+TOILETTES;;SQUARE DES DEUX NETHES;75018;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-des-deux-nethes-2765;"{""type"": ""MultiPoint"", ""coordinates"": [[2.327515102674248, 48.88565854413966]]}";48.8856585441,2.32751510267
+TOILETTES;;SQUARE SEVERINE;75020;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-severine-1776;"{""type"": ""MultiPoint"", ""coordinates"": [[2.4097626284528992, 48.86626191584978]]}";48.8662619158,2.40976262845
+SANISETTES;Fermé;109 BOULEVARD DE SEBASTOPOL;2;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.352726650613073, 48.86681987649092]]}";48.8668198765,2.35272665061
+SANISETTES;Fermé;37 BOULEVARD DES CAPUCINES;2;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.329345376568483, 48.870058233825205]]}";48.8700582338,2.32934537657
+SANISETTES;Fermé;2 RUE MORNAY;4;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.366123193813519, 48.849474962211744]]}";48.8494749622,2.36612319381
+SANISETTES;Fermé;78 BOULEVARD SAINT MARCEL;5;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.353543641100616, 48.83741847058166]]}";48.8374184706,2.3535436411
+SANISETTES;Fermé;AVENUE CHARLES FLOQUET;7;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.295895903904689, 48.855104384442974]]}";48.8551043844,2.2958959039
+SANISETTES;Fermé;6 AVENUE COURTELINE;12;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.411265473129769, 48.844093326334296]]}";48.8440933263,2.41126547313
+SANISETTES;Fermé;79 BOULEVARD KELLERMANN;13;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.347726932055576, 48.819969758397754]]}";48.8199697584,2.34772693206
+SANISETTES;Ouvert;Jardin DES HALLES ALLEE BLAISE CENDRARS SUD OUEST;1;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.344254327997302, 48.862221666357485]]}";48.8622216664,2.344254328
+SANISETTES;Fermé;QUAI BRANLY;07;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.292315949121437, 48.85806633367225]]}";48.8580663337,2.29231594912
+CABINE MOBILE;Ouvert;ESPLANADE NATHALIE SARRAUTE;18;;;;1 cabine;"{""type"": ""MultiPoint"", ""coordinates"": [[2.363006996851537, 48.889164274490604]]}";48.8891642745,2.36300699685
+SANISETTES;Fermé;90 RUE DE TOLBIAC;13;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.364581365240385, 48.82683406786535]]}";48.8268340679,2.36458136524
+SANISETTES;Ouvert;146 BOULEVARD DE L HOPITAL;13;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.356164166273496, 48.83258393040573]]}";48.8325839304,2.35616416627
+SANISETTES;Ouvert;10 AVENUE DU GENERAL LECLERC;14;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.331187020094139, 48.83301508320707]]}";48.8330150832,2.33118702009
+SANISETTES;Fermé;face 41 RUE DES MORILLONS;15;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.299498679290673, 48.83312572463117]]}";48.8331257246,2.29949867929
+SANISETTES;Fermé;37 RUE MIRABEAU;16;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.2690815555105672, 48.84593889811058]]}";48.8459388981,2.26908155551
+SANISETTES;Fermé;74 AVENUE DE SAINT OUEN;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3271840142740983, 48.89193708249992]]}";48.8919370825,2.32718401427
+SANISETTES;Fermé;opposé au 10 RUE DE L EVANGILE;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.361548103970359, 48.892079500845476]]}";48.8920795008,2.36154810397
+SANISETTES;Ouvert;220 BOULEVARD DE LA VILLETTE;19;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.367381050280597, 48.88425702092837]]}";48.8842570209,2.36738105028
+SANISETTES;Fermé;154 RUE D AUBERVILLIERS;19;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.369855639904201, 48.89338413651008]]}";48.8933841365,2.3698556399
+SANISETTES;Fermé;26 bis AVENUE CORENTIN CARIOU;19;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.385653355685078, 48.89731268179251]]}";48.8973126818,2.38565335569
+SANISETTES;Fermé;RUE BOTZARIS;19;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.384420443356067, 48.87938389016798]]}";48.8793838902,2.38442044336
+TOILETTES;;SQUARE DE LA RUE JEAN DUNAND (ZAC BAUDRICOURT);75013;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-baudricourt-2853;"{""type"": ""MultiPoint"", ""coordinates"": [[2.364376697938306, 48.823048021231]]}";48.8230480212,2.36437669794
+TOILETTES;;SQUARE DES CHAMAILLARDS;75013;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-des-chamaillards-2858;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3694295007426422, 48.82536366522392]]}";48.8253636652,2.36942950074
+TOILETTES;;BOIS DE BOULOGNE - PARC DE BAGATELLE - ORANGERIE;75016;Voir fiche équipement;Non;Oui;https://www.paris.fr/equipements/parc-de-bagatelle-1808;"{""type"": ""MultiPoint"", ""coordinates"": [[2.245718549831693, 48.86844303067456]]}";48.8684430307,2.24571854983
+TOILETTES;;JARDIN DE L'HOPITAL SAINTE-PERINE;75016;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/parc-sainte-perine-1806;"{""type"": ""MultiPoint"", ""coordinates"": [[2.268511280811586, 48.84381761455925]]}";48.8438176146,2.26851128081
+TOILETTES;;PARC MONTSOURIS;75014;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-et-aire-de-jeux-de-la-zac-alesia-montsouris-2867;"{""type"": ""MultiPoint"", ""coordinates"": [[2.340911412274563, 48.82139688389915]]}";48.8213968839,2.34091141227
+TOILETTES;;PARC DES BUTTES CHAUMONT;75004;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/parc-des-buttes-chaumont-1757;"{""type"": ""MultiPoint"", ""coordinates"": [[2.380334558131946, 48.88014301552132]]}";48.8801430155,2.38033455813
+TOILETTES;;SQUARE SEVERINE;75020;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-severine-1776;"{""type"": ""MultiPoint"", ""coordinates"": [[2.409769452973536, 48.865186754205176]]}";48.8651867542,2.40976945297
+TOILETTES;;JARDINS DU TROCADERO;75016;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardins-du-trocadero-1789;"{""type"": ""MultiPoint"", ""coordinates"": [[2.289051200983526, 48.862588523356806]]}";48.8625885234,2.28905120098
+TOILETTES;;JARDIN DES SERRES D'AUTEUIL;75016;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-du-tchad-2622;"{""type"": ""MultiPoint"", ""coordinates"": [[2.251485474357264, 48.847755568412516]]}";48.8477555684,2.25148547436
+TOILETTES;;PARC DES BUTTES CHAUMONT;75019;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/parc-des-buttes-chaumont-1757;"{""type"": ""MultiPoint"", ""coordinates"": [[2.387309056086508, 48.88106418436492]]}";48.8810641844,2.38730905609
+WC PUBLICS PERMANENTS;;Parc Rives de Seine;75001;10 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.344286199307675, 48.85785376524151]]}";48.8578537652,2.34428619931
+WC PUBLICS PERMANENTS;;Parc Rives de Seine;75004;;Non;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.346122050376146, 48.8573418185966]]}";48.8573418186,2.34612205038
+SANISETTES;Fermé;37 RUE DU LOUVRE;2;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.343820992881231, 48.8674378410879]]}";48.8674378411,2.34382099288
+SANISETTES;Fermé;91 RUE D ABOUKIR;2;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.348450028836779, 48.86816218874815]]}";48.8681621887,2.34845002884
+SANISETTES;Fermé;10bis RUE DE MOUSSY;4;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.35581305149286, 48.85783250805626]]}";48.8578325081,2.35581305149
+SANISETTES;Fermé;RUE DE L AVE MARIA;4;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.359582804553574, 48.85321055139778]]}";48.8532105514,2.35958280455
+SANISETTES;Ouvert;9 AVENUE DES GOBELINS;5;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.351186507903939, 48.83795209152188]]}";48.8379520915,2.3511865079
+SANISETTES;Ouvert;17 RUE DU FOUR;6;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.334590272454289, 48.85272198682075]]}";48.8527219868,2.33459027245
+SANISETTES;Fermé;79bis RUE LA FAYETTE;9;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.346852652338503, 48.87674207808279]]}";48.8767420781,2.34685265234
+SANISETTES;Fermé;282 BOULEVARD VOLTAIRE;11;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.393663208396115, 48.84958044775066]]}";48.8495804478,2.3936632084
+SANISETTES;Ouvert;face 170 AVENUE LEDRU ROLLIN;11;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.379351478214016, 48.85704278201932]]}";48.857042782,2.37935147821
+SANISETTES;Fermé;105 QUAI DE VALMY;10;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.362733834933867, 48.87459203532375]]}";48.8745920353,2.36273383493
+SANISETTES;Fermé;124 AVENUE DU GENERAL MICHEL BIZOT;12;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.404662780036119, 48.840456320638104]]}";48.8404563206,2.40466278004
+SANISETTES;Ouvert;32 BOULEVARD DIDEROT;12;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.376547762162363, 48.846112571054796]]}";48.8461125711,2.37654776216
+SANISETTES;Fermé;SQUARE EMILE COHL;12;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.409895752461853, 48.84199920626392]]}";48.8419992063,2.40989575246
+SANISETTES;Ouvert;27 AVENUE D IVRY;13;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.366856434532854, 48.82266348081883]]}";48.8226634808,2.36685643453
+SANISETTES;Fermé;BOULEVARD DE ROCHECHOUART;9;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.343497799728155, 48.882709085896316]]}";48.8827090859,2.34349779973
+SANISETTES;Ouvert;CHAMPS DE MARS avenue GENERAL FERRIE;7;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.296943316091291, 48.85718239169635]]}";48.8571823917,2.29694331609
+SANISETTES;Fermé;44 BOULEVARD VINCENT AURIOL;13;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.368782607297407, 48.83523926554277]]}";48.8352392655,2.3687826073
+SANISETTES;Ouvert;1 RUE EMILE LEVASSOR;13;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.369013887547498, 48.82124040430335]]}";48.8212404043,2.36901388755
+SANISETTES;Fermé;150 RUE DE LA CONVENTION;15;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.291457980262013, 48.839418441383394]]}";48.8394184414,2.29145798026
+SANISETTES;Fermé;277 RUE DE VAUGIRARD;15;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.301959067980262, 48.83966605396287]]}";48.839666054,2.30195906798
+SANISETTES;Fermé;1 PLACE VIOLET;15;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.290479546332364, 48.84479730746867]]}";48.8447973075,2.29047954633
+SANISETTES;Fermé;36 RUE DE LA CHARBONNIERE;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.352186422605598, 48.88410387025656]]}";48.8841038703,2.35218642261
+SANISETTES;Ouvert;face 3 PLACE SAINT PIERRE;18;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.344662211897329, 48.88449210942008]]}";48.8844921094,2.3446622119
+SANISETTES;Fermé;AVENUE DE LA PORTE DE CLIGNANCOURT;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.343807407345496, 48.90082578934029]]}";48.9008257893,2.34380740735
+SANISETTES;Fermé;BOULEVARD D ALGERIE;19;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.400408793867472, 48.880680241510866]]}";48.8806802415,2.40040879387
+SANISETTES;Ouvert;213 AVENUE JEAN JAURES;19;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.393095759882974, 48.888951442257486]]}";48.8889514423,2.39309575988
+TOILETTES;;JARDIN CASQUE D'OR;75020;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-casque-d-or-2713;"{""type"": ""MultiPoint"", ""coordinates"": [[2.401213775616216, 48.853920014436035]]}";48.8539200144,2.40121377562
+TOILETTES;;JARDIN D'EOLE - ESPLANADE;75018;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/jardin-francoise-helene-jourda-ex-20-rue-du-departement-18075;"{""type"": ""MultiPoint"", ""coordinates"": [[2.365850908359651, 48.8860364099231]]}";48.8860364099,2.36585090836
+TOILETTES;;SQUARE HELOISE ET ABELARD;75013;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-heloise-et-abelard-2498;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3698547770852603, 48.831220695011346]]}";48.831220695,2.36985477709
+URINOIR;Fermé;JARDIN D'EOLE - TERRAIN DE BASKET;75018;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-francoise-helene-jourda-ex-20-rue-du-departement-18075;"{""type"": ""MultiPoint"", ""coordinates"": [[2.364774445573531, 48.886195073546475]]}";48.8861950735,2.36477444557
+TOILETTES;;SQUARE SERGENT AURELIE SALEL;75020;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-du-sergent-aurelie-salel-ex-sorbier-2717;"{""type"": ""MultiPoint"", ""coordinates"": [[2.391297908966135, 48.867159406218995]]}";48.8671594062,2.39129790897
+TOILETTES;Ouvert;JARDIN TINO ROSSI - MUSEE DE LA SCULPTURE EN PLEIN AIR;75005;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-tino-rossi-1786;"{""type"": ""MultiPoint"", ""coordinates"": [[2.359146506463063, 48.84843664146207]]}";48.8484366415,2.35914650646
+TOILETTES;;SQUARE NICOLE DE HAUTECLOCQUE;75015;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-nicole-de-hauteclocque-2558;"{""type"": ""MultiPoint"", ""coordinates"": [[2.293571433539884, 48.85258139102268]]}";48.852581391,2.29357143354
+TOILETTES;;SQUARE DE LA RUE RENE BINET;75018;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/jardin-rene-binet-2685;"{""type"": ""MultiPoint"", ""coordinates"": [[2.338233278110479, 48.899535275674594]]}";48.8995352757,2.33823327811
+TOILETTES;;JARDIN MARIA VERONE;75018;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-maria-verone-2763;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3358751815764123, 48.897104575300425]]}";48.8971045753,2.33587518158
+TOILETTES;;PARC DE BELLEVILLE;75020;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-des-couronnes-2748;"{""type"": ""MultiPoint"", ""coordinates"": [[2.384968927744539, 48.87154116321315]]}";48.8715411632,2.38496892774
+WC PUBLICS PERMANENTS;;Sous le pont Louis Philippe;75004;;Non;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.354644393586068, 48.85420227463654]]}";48.8542022746,2.35464439359
+SANISETTES;Fermé;21 bis BOULEVARD BOURDON;4;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.366735495873733, 48.849930706291325]]}";48.8499307063,2.36673549587
+SANISETTES;Fermé;123 RUE SAINT JACQUES;5;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.343987824033075, 48.84781204558067]]}";48.8478120456,2.34398782403
+SANISETTES;Ouvert;27 RUE DE LA ROQUETTE;11;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.372855378710675, 48.854888192016624]]}";48.854888192,2.37285537871
+SANISETTES;Fermé;195 BOULEVARD VOLTAIRE;11;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.387880334234302, 48.853292450305034]]}";48.8532924503,2.38788033423
+SANISETTES;Ouvert;AVENUE DE NOGENT;12;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.441132754272187, 48.84414119521416]]}";48.8441411952,2.44113275427
+CABINE MOBILE;Ouvert;Avenue Denfert-Rochereau;75014;;;;1 cabine;"{""type"": ""MultiPoint"", ""coordinates"": [[2.336369014836333, 48.83820620340544]]}";48.8382062034,2.33636901484
+SANISETTES;Fermé;PLACE DE LA BASTILLE;11;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.370072634439651, 48.85331060980803]]}";48.8533106098,2.37007263444
+SANISETTES;Fermé;38 RUE DU CHEVALERET;13;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.376734201906194, 48.82822850829953]]}";48.8282285083,2.37673420191
+SANISETTES;Fermé;70 BOULEVARD JOURDAN;14;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.328856513435701, 48.82262985130539]]}";48.8226298513,2.32885651344
+SANISETTES;Fermé;199 AVENUE DU MAINE;14;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3263079060218033, 48.82961024511326]]}";48.8296102451,2.32630790602
+SANISETTES;Fermé;185 BOULEVARD LEFEBVRE;15;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.30336605349608, 48.8282841141784]]}";48.8282841142,2.3033660535
+SANISETTES;Fermé;face 6 RUE DESNOUETTES;15;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.293417776948328, 48.83604524670522]]}";48.8360452467,2.29341777695
+SANISETTES;Fermé;6 BOULEVARD PASTEUR;15;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.311014246402828, 48.84473649708047]]}";48.8447364971,2.3110142464
+SANISETTES;Fermé;PLACE DE LA PORTE D AUTEUIL;16;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.257177590169218, 48.84844378816905]]}";48.8484437882,2.25717759017
+SANISETTES;Fermé;7 AVENUE DE LA PORTE DES TERNES;17;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.282970855516519, 48.88111759201828]]}";48.881117592,2.28297085552
+SANISETTES;Fermé;96ter RUE LEMERCIER;17;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.318866697645444, 48.88942282181049]]}";48.8894228218,2.31886669765
+SANISETTES;Fermé;opposé au 17 RUE RENE BINET;18;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.340530389340114, 48.89928991429743]]}";48.8992899143,2.34053038934
+SANISETTES;Fermé;BOULEVARD MORTIER;20;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.4069893470423622, 48.875944318964045]]}";48.875944319,2.40698934704
+TOILETTES;;SQUARES DES ARENES DE LUTECE ET CAPITAN;75005;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-des-arenes-de-lutece-et-square-capitan-1760;"{""type"": ""MultiPoint"", ""coordinates"": [[2.35324384799468, 48.845456222716194]]}";48.8454562227,2.35324384799
+TOILETTES;;SQUARE PAUL GRIMAULT;75013;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-paul-grimault-2567;"{""type"": ""MultiPoint"", ""coordinates"": [[2.34850913926846, 48.82302967451198]]}";48.8230296745,2.34850913927
+TOILETTES;;SQUARE FERDINAND BRUNOT;75014;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-de-l-aspirant-dunand-2543;"{""type"": ""MultiPoint"", ""coordinates"": [[2.32688024224376, 48.83229243383418]]}";48.8322924338,2.32688024224
+TOILETTES;;SQUARE DU CHANOINE VIOLLET;75014;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-alberto-giacometti-2866;"{""type"": ""MultiPoint"", ""coordinates"": [[2.320531761589162, 48.8313476109017]]}";48.8313476109,2.32053176159
+URINOIR;Ouvert;JARDIN TINO ROSSI - MUSEE DE LA SCULPTURE EN PLEIN AIR;75005;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-tino-rossi-1786;"{""type"": ""MultiPoint"", ""coordinates"": [[2.360430216680337, 48.8476257789993]]}";48.847625779,2.36043021668
+TOILETTES;;SQUARE SAMUEL ROUSSEAU;75007;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-samuel-rousseau-2467;"{""type"": ""MultiPoint"", ""coordinates"": [[2.319582882629932, 48.85917224498334]]}";48.859172245,2.31958288263
+TOILETTES;;JARDIN ATLANTIQUE;75015;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-atlantique-1775;"{""type"": ""MultiPoint"", ""coordinates"": [[2.319685441900642, 48.83980953472804]]}";48.8398095347,2.3196854419
+TOILETTES;;JARDIN CLAIRE MOTTE;75017;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-claire-motte-2820;"{""type"": ""MultiPoint"", ""coordinates"": [[2.304142774509969, 48.89189723480619]]}";48.8918972348,2.30414277451
+TOILETTES;;SQUARE CARPEAUX;75018;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-carpeaux-2646;"{""type"": ""MultiPoint"", ""coordinates"": [[2.331619279991791, 48.89147640229228]]}";48.8914764023,2.33161927999
+TOILETTES;;SQUARE DE LA RUE CHARLES HERMITE;75018;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-charles-hermite-2648;"{""type"": ""MultiPoint"", ""coordinates"": [[2.366573419652227, 48.89989642935981]]}";48.8998964294,2.36657341965
+LAVATORY;;Avenue des Champs-Elysées;75008;;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.317089878279595, 48.867262574141115]]}";48.8672625741,2.31708987828
+SANISETTES;Ouvert;2 RUE DE LA LINGERIE;1;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.346478360952597, 48.86028377588714]]}";48.8602837759,2.34647836095
+SANISETTES;Fermé;82 BOULEVARD DE SEBASTOPOL;3;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.352249091270851, 48.86550351402495]]}";48.865503514,2.35224909127
+SANISETTES;Fermé;115 RUE SAINT MARTIN;4;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.351171125654263, 48.86052384157859]]}";48.8605238416,2.35117112565
+SANISETTES;Fermé;face 12 RUE DE BABYLONE;7;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.325180137951544, 48.851626831079074]]}";48.8516268311,2.32518013795
+SANISETTES;Fermé;opposé au 44 AVENUE GABRIEL;8;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.31276020722228, 48.869470956238764]]}";48.8694709562,2.31276020722
+SANISETTES;Fermé;SQUARE ALBAN SATRAGNE;10;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3558626724604173, 48.87578071143161]]}";48.8757807114,2.35586267246
+SANISETTES;Ouvert;12 PLACE DE LA REPUBLIQUE;10;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.363409140558088, 48.86839539424431]]}";48.8683953942,2.36340914056
+SANISETTES;Fermé;face 50 QUAI DE JEMMAPES;10;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.36659750721216, 48.87002790121456]]}";48.8700279012,2.36659750721
+SANISETTES;Ouvert;2 AVENUE DE BOUVINES;11;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.396302106543346, 48.84957781951283]]}";48.8495778195,2.39630210654
+SANISETTES;Fermé;179 QUAI DE VALMY;10;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.367317820510683, 48.88016342714386]]}";48.8801634271,2.36731782051
+SANISETTES;Ouvert;5 RUE DE MAZAGRAN;10;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.351378014817505, 48.87049160141798]]}";48.8704916014,2.35137801482
+SANISETTES;Fermé;179 AVENUE DAUMESNIL;12;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.392040374875127, 48.840525428672]]}";48.8405254287,2.39204037488
+SANISETTES;Fermé;4 BOULEVARD DIDEROT;12;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.369251752524021, 48.84528888185514]]}";48.8452888819,2.36925175252
+SANISETTES;Ouvert;90 COURS DE VINCENNES;12;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.407478775285201, 48.8471076974426]]}";48.8471076974,2.40747877529
+SANISETTES;Fermé;18 RUE ERARD;12;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.384916436097444, 48.845592298253614]]}";48.8455922983,2.3849164361
+SANISETTES;Ouvert;259bis AVENUE DAUMESNIL;12;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.404394145483592, 48.83651368622266]]}";48.8365136862,2.40439414548
+SANISETTES;Ouvert;88 RUE DE LYON;12;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.370285957563933, 48.850846776539186]]}";48.8508467765,2.37028595756
+URINOIR MOBILE;Ouvert;Rue des Fossés Saint-Bernard;75005;;;;1 urinoir;"{""type"": ""MultiPoint"", ""coordinates"": [[2.356308807899597, 48.849086770308794]]}";48.8490867703,2.3563088079
+SANISETTES;Fermé;BOULEVARD DE SEBASTOPOL;3;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.352544366189737, 48.86601791753035]]}";48.8660179175,2.35254436619
+URINOIR MOBILE;Ouvert;ESPLANADE NATHALIE SARRAUTE;18;;;;1 urinoir;"{""type"": ""MultiPoint"", ""coordinates"": [[2.362971095003513, 48.889091283243616]]}";48.8890912832,2.362971095
+SANISETTES;Fermé;151 BOULEVARD VINCENT AURIOL;13;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.361580551096068, 48.832713522967]]}";48.832713523,2.3615805511
+SANISETTES;Fermé;101 BOULEVARD DE MONTMORENCY;16;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.260533615073436, 48.8483316153724]]}";48.8483316154,2.26053361507
+SANISETTES;Ouvert;BOULEVARD MURAT;16;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.256178234666151, 48.84223492178067]]}";48.8422349218,2.25617823467
+SANISETTES;Ouvert;face 52 BOULEVARD DE ROCHECHOUART;18;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.345906182814424, 48.88324708107194]]}";48.8832470811,2.34590618281
+SANISETTES;Fermé;11 RUE FRANCIS DE CROISSET;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.34445799806018, 48.899388215542245]]}";48.8993882155,2.34445799806
+SANISETTES;Fermé;3 AVENUE DE LA PORTE D AUBERVILLIERS;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.370126499080757, 48.899198846438914]]}";48.8991988464,2.37012649908
+TOILETTES;;JARDIN DE LA FOLIE TITON;75011;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-de-la-folie-titon-2842;"{""type"": ""MultiPoint"", ""coordinates"": [[2.385387214042942, 48.8521493384893]]}";48.8521493385,2.38538721404
+URINOIR;Ouvert;JARDIN TINO ROSSI - MUSEE DE LA SCULPTURE EN PLEIN AIR;75005;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-tino-rossi-1786;"{""type"": ""MultiPoint"", ""coordinates"": [[2.361597962737386, 48.84699411929912]]}";48.8469941193,2.36159796274
+TOILETTES;;PARC MONTSOURIS;75014;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-et-aire-de-jeux-de-la-zac-alesia-montsouris-2867;"{""type"": ""MultiPoint"", ""coordinates"": [[2.336047447095454, 48.82123528431706]]}";48.8212352843,2.3360474471
+TOILETTES;;PARC DES BUTTES CHAUMONT;75019;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/parc-des-buttes-chaumont-1757;"{""type"": ""MultiPoint"", ""coordinates"": [[2.380790072781452, 48.876855458646126]]}";48.8768554586,2.38079007278
+TOILETTES;;COULEE VERTE RENE DUMONT - PROMENADE DU VIADUC DES ARTS;75012;Voir fiche équipement;Oui;Oui;https://www.paris.fr/equipements/square-philippe-farine-ex-square-du-mail-gatbois-2601;"{""type"": ""MultiPoint"", ""coordinates"": [[2.381996878028027, 48.84435659883764]]}";48.8443565988,2.38199687803
+TOILETTES;;SQUARE PAUL LANGEVIN;75005;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-paul-langevin-2446;"{""type"": ""MultiPoint"", ""coordinates"": [[2.349373393516292, 48.84815530354401]]}";48.8481553035,2.34937339352
+TOILETTES;;SQUARE DES MISSIONS ETRANGERES;75007;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-des-missions-etrangeres-2463;"{""type"": ""MultiPoint"", ""coordinates"": [[2.324502934107624, 48.85240888634458]]}";48.8524088863,2.32450293411
+TOILETTES;;SQUARE MAURICE GARDETTE;75011;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-maurice-gardette-2725;"{""type"": ""MultiPoint"", ""coordinates"": [[2.378748375701655, 48.86145746772124]]}";48.8614574677,2.3787483757
+TOILETTES;;JARDIN EMILE GALLE;75011;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-emile-galle-2730;"{""type"": ""MultiPoint"", ""coordinates"": [[2.390465302238812, 48.85378509897565]]}";48.853785099,2.39046530224
+TOILETTES;;SQUARE LOUIS MAJORELLE;75011;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-louis-majorelle-2733;"{""type"": ""MultiPoint"", ""coordinates"": [[2.380924006050463, 48.85199247850565]]}";48.8519924785,2.38092400605
+TOILETTES;;PARC DE BERCY;75012;Voir fiche équipement;Oui;Oui;https://www.paris.fr/equipements/jardin-georges-duhamel-2559;"{""type"": ""MultiPoint"", ""coordinates"": [[2.382471399395286, 48.83398319424073]]}";48.8339831942,2.3824713994
+SANISETTES;Ouvert;1 BOULEVARD DES FILLES DU CALVAIRE;3;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.367032423762319, 48.861123131655724]]}";48.8611231317,2.36703242376
+SANISETTES;Ouvert;face 171 RUE DU TEMPLE;3;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.36013286100841, 48.86497566729412]]}";48.8649756673,2.36013286101
+SANISETTES;Fermé;RUE D ARCOLE;4;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3492432036278, 48.853812057284806]]}";48.8538120573,2.34924320363
+SANISETTES;Fermé;2 AVENUE MARCEAU;8;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.300183446079439, 48.86519333667549]]}";48.8651933367,2.30018344608
+SANISETTES;Fermé;face au 7 BOULEVARD DE MENILMONTANT;11;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.38932122025704, 48.85881749412743]]}";48.8588174941,2.38932122026
+SANISETTES;Ouvert;1 AVENUE DE VERDUN;10;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.361395771844339, 48.876304046298976]]}";48.8763040463,2.36139577184
+SANISETTES;Ouvert;145 BOULEVARD DE MAGENTA;10;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.350534228884394, 48.88224462938898]]}";48.8822446294,2.35053422888
+SANISETTES;Ouvert;RUE DE L'EVANGILE;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.361214699113301, 48.89149999854925]]}";48.8914999985,2.36121469911
+SANISETTES;Ouvert;46 AVENUE D ITALIE;13;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.35653249550023, 48.828056558518995]]}";48.8280565585,2.3565324955
+SANISETTES;Fermé;opposé au 41 RUE ESQUIROL;13;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.360048710711233, 48.835822547644895]]}";48.8358225476,2.36004871071
+SANISETTES;Fermé;face 14 AVENUE RENE COTY;14;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.333834169548373, 48.83036895346168]]}";48.8303689535,2.33383416955
+SANISETTES;Fermé;95 BOULEVARD DE PORT ROYAL;14;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3418057664472203, 48.838270229702346]]}";48.8382702297,2.34180576645
+SANISETTES;Fermé;face 19 RUE LEON LHERMITTE;15;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.297810540412148, 48.84286484165984]]}";48.8428648417,2.29781054041
+SANISETTES;Fermé;face 7 RUE LA QUINTINIE;15;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.306332691603664, 48.83923304249819]]}";48.8392330425,2.3063326916
+SANISETTES;Fermé;AVENUE PAUL DOUMER;16;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.286382033570447, 48.862157963392185]]}";48.8621579634,2.28638203357
+SANISETTES;Fermé;face 12 PLACE DES ETATS UNIS;16;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.293740160699615, 48.86830253319043]]}";48.8683025332,2.2937401607
+SANISETTES;Fermé;face 21 AVENUE DU GENERAL SARRAIL;16;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.255987040827983, 48.845813121421486]]}";48.8458131214,2.25598704083
+SANISETTES;Ouvert;2 SQUARE LAMARTINE;16;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.275158169830334, 48.86517142314817]]}";48.8651714231,2.27515816983
+SANISETTES;Ouvert;87 RUE DE LA CHAPELLE;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.358915646050675, 48.89763161180878]]}";48.8976316118,2.35891564605
+SANISETTES;Ouvert;RUE GERARD DE NERVAL;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.335106237051519, 48.90059318004156]]}";48.90059318,2.33510623705
+SANISETTES;Ouvert;100 AVENUE DE FLANDRE;19;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.377243000431053, 48.89096040821487]]}";48.8909604082,2.37724300043
+SANISETTES;Fermé;24 RUE SAINT FARGEAU;20;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.402140186133077, 48.871554163366646]]}";48.8715541634,2.40214018613
+SANISETTES;Fermé;face 375 RUE DES PYRENEES;20;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.389751715108937, 48.87368018535096]]}";48.8736801854,2.38975171511
+TOILETTES;;SQUARE RENE LE GALL;75013;Voir fiche équipement;Oui;Oui;https://www.paris.fr/equipements/square-rene-le-gall-1766;"{""type"": ""MultiPoint"", ""coordinates"": [[2.348139168393053, 48.83133948649257]]}";48.8313394865,2.34813916839
+TOILETTES;;JARDIN GEORGES DUHAMEL;75013;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-georges-duhamel-2559;"{""type"": ""MultiPoint"", ""coordinates"": [[2.377715670547634, 48.831979630954024]]}";48.831979631,2.37771567055
+TOILETTES;;JARDIN DURANTON;75015;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-duranton-2534;"{""type"": ""MultiPoint"", ""coordinates"": [[2.285555470390217, 48.84127765140588]]}";48.8412776514,2.28555547039
+TOILETTES;;JARDIN MEDIEVAL DU MUSEE DE CLUNY;75005;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-paul-painleve-2444;"{""type"": ""MultiPoint"", ""coordinates"": [[2.344087165266142, 48.85081103124964]]}";48.8508110312,2.34408716527
+TOILETTES;;PARC DES BUTTES CHAUMONT;75004;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/parc-des-buttes-chaumont-1757;"{""type"": ""MultiPoint"", ""coordinates"": [[2.385168519889268, 48.87986955015693]]}";48.8798695502,2.38516851989
+TOILETTES;;SQUARE DE LA ROQUETTE;75011;Voir fiche équipement;Non;Oui;https://www.paris.fr/equipements/square-marcel-rajman-16638;"{""type"": ""MultiPoint"", ""coordinates"": [[2.384662193346415, 48.85998930823249]]}";48.8599893082,2.38466219335
+TOILETTES;;JARDIN DES SERRES D'AUTEUIL;75016;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-du-tchad-2622;"{""type"": ""MultiPoint"", ""coordinates"": [[2.252823769625865, 48.84600296930212]]}";48.8460029693,2.25282376963
+TOILETTES;;SQUARE DE LA BUTTE DU CHAPEAU ROUGE;75019;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/parc-de-la-butte-du-chapeau-rouge-1811;"{""type"": ""MultiPoint"", ""coordinates"": [[2.398780849590684, 48.88101651958862]]}";48.8810165196,2.39878084959
+TOILETTES;;SQUARE MARIE CURIE;75013;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-marie-curie-2496;"{""type"": ""MultiPoint"", ""coordinates"": [[2.363377117758927, 48.84118348892286]]}";48.8411834889,2.36337711776
+SANISETTES;Fermé;2 RUE SAINT DENIS;1;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.347377822375173, 48.858021649091455]]}";48.8580216491,2.34737782238
+SANISETTES;Fermé;123 RUE SAINT MARTIN;4;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.351315750121665, 48.86079042790049]]}";48.8607904279,2.35131575012
+SANISETTES;Ouvert;85 BOULEVARD RASPAIL;6;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.327969092306715, 48.84768309080963]]}";48.8476830908,2.32796909231
+SANISETTES;Ouvert;5 BOULEVARD DE CLICHY;9;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.339163301036448, 48.882089018714574]]}";48.8820890187,2.33916330104
+SANISETTES;Ouvert;51 BOULEVARD DE ROCHECHOUART;9;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.341432909012633, 48.882316150207735]]}";48.8823161502,2.34143290901
+SANISETTES;Fermé;58 AVENUE DE LA REPUBLIQUE;11;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.376082810937389, 48.86489721503484]]}";48.864897215,2.37608281094
+SANISETTES;Fermé;54 BOULEVARD DE PICPUS;12;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.4018852062099443, 48.84368377089712]]}";48.8436837709,2.40188520621
+CABINE MOBILE;Ouvert;Place Maubert;75005;;;;1 cabine;"{""type"": ""MultiPoint"", ""coordinates"": [[2.348483507054409, 48.85024006411362]]}";48.8502400641,2.34848350705
+URINOIR MOBILE;Ouvert;47 Quai de Valmy;75010;;;;1 rigole;"{""type"": ""MultiPoint"", ""coordinates"": [[2.366032329621542, 48.87005609812762]]}";48.8700560981,2.36603232962
+CABINE MOBILE;Ouvert;Place Saint-Marthe;75010;;;;1 cabine;"{""type"": ""MultiPoint"", ""coordinates"": [[2.372703385400161, 48.8741356078599]]}";48.8741356079,2.3727033854
+URINOIR MOBILE;Ouvert;RUE BINET;18;;;;1 urinoir;"{""type"": ""MultiPoint"", ""coordinates"": [[2.340533070735921, 48.89919776700793]]}";48.899197767,2.34053307074
+SANISETTES;Fermé;117 BOULEVARD MASSENA;13;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.363982338246426, 48.81958369499793]]}";48.819583695,2.36398233825
+SANISETTES;Ouvert;23 RUE DU DEPART;14;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.323164983219899, 48.84217571141368]]}";48.8421757114,2.32316498322
+SANISETTES;Fermé;face 55 BOULEVARD DE VAUGIRARD;15;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3164276371957753, 48.8409122311636]]}";48.8409122312,2.3164276372
+SANISETTES;Ouvert;face 200 RUE DE LA CONVENTION;15;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.296801972420026, 48.83718929817781]]}";48.8371892982,2.29680197242
+SANISETTES;Ouvert;65 AVENUE EMILE ZOLA;15;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.284774819622887, 48.846550685068856]]}";48.8465506851,2.28477481962
+SANISETTES;Fermé;2 PLACE DE BARCELONE;16;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.273632592942298, 48.84768231148525]]}";48.8476823115,2.27363259294
+SANISETTES;Fermé;25 AVENUE DE CLICHY;17;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.326343623788707, 48.88565931519143]]}";48.8856593152,2.32634362379
+SANISETTES;Fermé;72 AVENUE DE VILLIERS;17;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.304206179918619, 48.884027564002565]]}";48.884027564,2.30420617992
+SANISETTES;Ouvert;face 118 BOULEVARD DE CLICHY;18;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.330274997441431, 48.8843823956645]]}";48.8843823957,2.33027499744
+SANISETTES;Fermé;57 RUE DE LA CHAPELLE;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.358838883116348, 48.89508955698618]]}";48.895089557,2.35883888312
+SANISETTES;Fermé;15 AVENUE DE LA PORTE DE CLIGNANCOURT;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.343963695246802, 48.8991942601401]]}";48.8991942601,2.34396369525
+SANISETTES;Ouvert;25 AVENUE DE FLANDRE;19;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.370365988049617, 48.8857730296856]]}";48.8857730297,2.37036598805
+SANISETTES;Ouvert;131 RUE D AVRON;20;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.409258092200667, 48.85331628203856]]}";48.853316282,2.4092580922
+TOILETTES;;SQUARE DE LA RUE LEON FRAPIE;75020;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-leon-frapie-2722;"{""type"": ""MultiPoint"", ""coordinates"": [[2.412143699957275, 48.87242040371037]]}";48.8724204037,2.41214369996
+TOILETTES;;JARDIN DE L'HOSPICE DEBROUSSE;75020;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-de-l-hospice-debrousse-16194;"{""type"": ""MultiPoint"", ""coordinates"": [[2.406993138173421, 48.862359830386104]]}";48.8623598304,2.40699313817
+TOILETTES;;JARDIN DES GRANDS MOULINS - ABBE PIERRE - JARDIN CENTRAL;75013;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/jardins-abbe-pierre-grands-moulins-5044;"{""type"": ""MultiPoint"", ""coordinates"": [[2.379618715998577, 48.82961671975898]]}";48.8296167198,2.379618716
+TOILETTES;;JARDIN DE LA DALLE FOUGERE;75020;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-leon-frapie-2722;"{""type"": ""MultiPoint"", ""coordinates"": [[2.412431784164808, 48.87218012240723]]}";48.8721801224,2.41243178416
+TOILETTES;;JARDIN ANNE FRANK (HOTEL SAINT-AIGNAN);75003;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/jardin-anne-frank-2737;"{""type"": ""MultiPoint"", ""coordinates"": [[2.354528582794358, 48.86140027201583]]}";48.861400272,2.35452858279
+TOILETTES;;SQUARE FLORENCE BLUMENTHAL;75013;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-florence-blumenthal-2523;"{""type"": ""MultiPoint"", ""coordinates"": [[2.367317874534179, 48.82749838275663]]}";48.8274983828,2.36731787453
+TOILETTES;;JARDIN BREGUET;75011;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/jardin-breguet-19383;"{""type"": ""MultiPoint"", ""coordinates"": [[2.375110745926088, 48.85815541945394]]}";48.8581554195,2.37511074593
+TOILETTES;;PARC DES BUTTES CHAUMONT;75004;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/parc-des-buttes-chaumont-1757;"{""type"": ""MultiPoint"", ""coordinates"": [[2.379927468657875, 48.878124294408764]]}";48.8781242944,2.37992746866
+TOILETTES;;JARDIN JAMES JOYCE;75013;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-james-joyce-2560;"{""type"": ""MultiPoint"", ""coordinates"": [[2.373750809302066, 48.836321686226896]]}";48.8363216862,2.3737508093
+TOILETTES;;PARC MONCEAU;75008;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/parc-monceau-1804;"{""type"": ""MultiPoint"", ""coordinates"": [[2.309077189142378, 48.88027485340873]]}";48.8802748534,2.30907718914
+TOILETTES;;SQUARE JULES VERNE;75011;Voir fiche équipement;Oui;Oui;https://www.paris.fr/equipements/square-jules-verne-2841;"{""type"": ""MultiPoint"", ""coordinates"": [[2.375293804571365, 48.87001971632358]]}";48.8700197163,2.37529380457
+TOILETTES;;JARDIN DE REUILLY - PAUL PERNIN;75012;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/jardin-de-reuilly-paul-pernin-2573;"{""type"": ""MultiPoint"", ""coordinates"": [[2.388283524133826, 48.84285653768209]]}";48.8428565377,2.38828352413
+TOILETTES;;JARDIN DEBERGUE-RENDEZ-VOUS;75012;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/jardin-debergue-rendez-vous-2848;"{""type"": ""MultiPoint"", ""coordinates"": [[2.403911070709572, 48.84657173098482]]}";48.846571731,2.40391107071
+TOILETTES;;SQUARE DE LA RUE BAYEN;75017;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-olave-et-robert-baden-powell-ex-bayen-2630;"{""type"": ""MultiPoint"", ""coordinates"": [[2.290614026007785, 48.88215739534307]]}";48.8821573953,2.29061402601
+TOILETTES;;JARDIN DE LA RUE GINETTE NEVEU;75018;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/jardin-de-la-rue-ginette-neveu-2654;"{""type"": ""MultiPoint"", ""coordinates"": [[2.345035089551902, 48.900016901607415]]}";48.9000169016,2.34503508955
+WC PUBLICS PERMANENTS;;Parc Rives de Seine;75001;;Non;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.342722494673272, 48.85831632949923]]}";48.8583163295,2.34272249467
+SANISETTES;Fermé;36 BOULEVARD DE SEBASTOPOL;4;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.350030857031587, 48.861537352383735]]}";48.8615373524,2.35003085703
+SANISETTES;Fermé;66 BOULEVARD RICHARD LENOIR;11;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.374680107539579, 48.86057160355864]]}";48.8605716036,2.37468010754
+SANISETTES;Ouvert;40 RUE RENE BOULANGER;10;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.360777770150429, 48.86834594493965]]}";48.8683459449,2.36077777015
+SANISETTES;Ouvert;1 AVENUE RICHERAND;10;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.365465590341057, 48.87183853334346]]}";48.8718385333,2.36546559034
+SANISETTES;Ouvert;8 RUE DE LYON;12;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.37177589149407, 48.84745150202467]]}";48.847451502,2.37177589149
+SANISETTES;Fermé;RUE COQUILLIERE;1;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.342472298693266, 48.8635474009773]]}";48.863547401,2.34247229869
+SANISETTES;Fermé;BOULEVARD DE SEBASTOPOL;2;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.35161126358933, 48.8648280162637]]}";48.8648280163,2.35161126359
+SANISETTES;Fermé;46 RUE CHARLES MOUREU;13;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.360778312327731, 48.829082146443014]]}";48.8290821464,2.36077831233
+SANISETTES;Fermé;opposé au 17 BOULEVARD AUGUSTE BLANQUI;13;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3533725291965792, 48.83062624643756]]}";48.8306262464,2.3533725292
+SANISETTES;Fermé;face 2 AVENUE DE WAGRAM;17;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.295697431651681, 48.87494771234444]]}";48.8749477123,2.29569743165
+SANISETTES;Fermé;face 36 RUE LEIBNIZ;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.334627425552952, 48.896429139789866]]}";48.8964291398,2.33462742555
+SANISETTES;Ouvert;face 3 RUE MARCEL SEMBAT;18;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.337690977054359, 48.899016851977834]]}";48.899016852,2.33769097705
+SANISETTES;Fermé;9 BOULEVARD NEY;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.341642000883749, 48.89775890686294]]}";48.8977589069,2.34164200088
+SANISETTES;Fermé;RUE DE CRIMEE;19;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.379033965091644, 48.88883561898796]]}";48.888835619,2.37903396509
+SANISETTES;Ouvert;face 148 BOULEVARD DE MENILMONTANT;20;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.383389726625512, 48.86675503488674]]}";48.8667550349,2.38338972663
+SANISETTES;Ouvert;1 RUE BELGRAND;20;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.399823703089333, 48.864920416418464]]}";48.8649204164,2.39982370309
+SANISETTES;Fermé;4 RUE FERNAND LEGER;20;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.389124137262356, 48.863772755076]]}";48.8637727551,2.38912413726
+TOILETTES;;SQUARE PIERRE-ADRIEN DALPAYRAT;75015;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/jardin-pierre-adrien-dalpayrat-2494;"{""type"": ""MultiPoint"", ""coordinates"": [[2.313031069862712, 48.83776398633028]]}";48.8377639863,2.31303106986
+TOILETTES;;JARDIN DE L'HOPITAL SAINTE-PERINE;75014;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/parc-sainte-perine-1806;"{""type"": ""MultiPoint"", ""coordinates"": [[2.269172604439539, 48.84484410447445]]}";48.8448441045,2.26917260444
+TOILETTES;;PARC DES BUTTES CHAUMONT;75004;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/parc-des-buttes-chaumont-1757;"{""type"": ""MultiPoint"", ""coordinates"": [[2.383640963547957, 48.88182476781304]]}";48.8818247678,2.38364096355
+TOILETTES;;SQUARE VAN VOLLENHOVEN;75012;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-van-vollenhoven-2593;"{""type"": ""MultiPoint"", ""coordinates"": [[2.406786549937932, 48.834706801799896]]}";48.8347068018,2.40678654994
+TOILETTES;;PARC DES BUTTES CHAUMONT;75019;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/parc-des-buttes-chaumont-1757;"{""type"": ""MultiPoint"", ""coordinates"": [[2.382779015108047, 48.882377973295455]]}";48.8823779733,2.38277901511
+TOILETTES;;SQUARE EDOUARD VAILLANT;75020;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-edouard-vaillant-2691;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3999211355178423, 48.86624979612694]]}";48.8662497961,2.39992113552
+TOILETTES;;SQUARE SARAH BERNHARDT;75020;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-sarah-bernhardt-1774;"{""type"": ""MultiPoint"", ""coordinates"": [[2.403701838756763, 48.849620045031294]]}";48.849620045,2.40370183876
+TOILETTES;;SQUARE DES SAINTS-SIMONIENS - MENILMONTANT;75020;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-des-saint-simoniens-2694;"{""type"": ""MultiPoint"", ""coordinates"": [[2.396969579365494, 48.8708534006859]]}";48.8708534007,2.39696957937
+SANISETTES;Fermé;25 RUE PASTOURELLE;3;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.359364861798902, 48.86274437683079]]}";48.8627443768,2.3593648618
+SANISETTES;Ouvert;14 RUE SAINT MARTIN;4;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.349797594005607, 48.858200967363395]]}";48.8582009674,2.34979759401
+SANISETTES;Fermé;4 RUE JUSSIEU;5;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.354872194164979, 48.84622521629629]]}";48.8462252163,2.35487219416
+SANISETTES;Fermé;opposé au 168 BOULEVARD DE MAGENTA;9;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.349610003378711, 48.883270091603826]]}";48.8832700916,2.34961000338
+SANISETTES;Fermé;20 BOULEVARD SAINT MARTIN;10;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.356173275732148, 48.868999656313925]]}";48.8689996563,2.35617327573
+SANISETTES;Fermé;face 81 QUAI DE VALMY;10;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.364073917787641, 48.87258118624698]]}";48.8725811862,2.36407391779
+SANISETTES;Fermé;opposé 96 RUE OBERKAMPF;11;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.377607009280848, 48.865770227997636]]}";48.865770228,2.37760700928
+SANISETTES;Fermé;283 RUE DE CHARENTON;12;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.393533357001099, 48.83473828707719]]}";48.8347382871,2.393533357
+SANISETTES;Fermé;25 BOULEVARD DE LA VILLETTE;10;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.375281769902509, 48.87348074198408]]}";48.873480742,2.3752817699
+SANISETTES;Ouvert;118 BOULEVARD DE LA VILLETTE;10;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3709710108818243, 48.87736769831583]]}";48.8773676983,2.37097101088
+SANISETTES;Fermé;2 RUE DES ECLUSES SAINT MARTIN;10;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.368177603725198, 48.876238731757724]]}";48.8762387318,2.36817760373
+CABINE MOBILE;Ouvert;Rue Perrée;75010;;Non;;3 cabines;"{""type"": ""MultiPoint"", ""coordinates"": [[2.362407151052076, 48.864144921972]]}";48.864144922,2.36240715105
+CABINE MOBILE;Ouvert;BOULEVARD DE LA CHAPELLE;18;;;;1 cabine;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3602932254538, 48.884430540771284]]}";48.8844305408,2.36029322545
+SANISETTES;Ouvert;opposé au 3 RUE DE L ABBE SOULANGE BODIN;14;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.317797978892912, 48.83548610047364]]}";48.8354861005,2.31779797889
+SANISETTES;Ouvert;4 RUE DU COMMANDANT RENE MOUCHOTTE;15;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.321410922508021, 48.8399779389822]]}";48.839977939,2.32141092251
+SANISETTES;Fermé;face 170 RUE DE LOURMEL;15;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.282556463784303, 48.839092109817905]]}";48.8390921098,2.28255646378
+SANISETTES;Fermé;92-102 RUE BLOMET;15;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.300280980817689, 48.84090598651907]]}";48.8409059865,2.30028098082
+SANISETTES;Fermé;RUE DU THEATRE;15;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.287920080193913, 48.8490352798541]]}";48.8490352799,2.28792008019
+SANISETTES;Ouvert;86 RUE DE LA FEDERATION;15;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.297988285539683, 48.85284635560979]]}";48.8528463556,2.29798828554
+SANISETTES;Ouvert;PLACE CHARLES FILLION;17;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.315811510931308, 48.88847096557176]]}";48.8884709656,2.31581151093
+SANISETTES;Fermé;face 51 PLACE ALBERT KAHN;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3460006044594532, 48.895774734607485]]}";48.8957747346,2.34600060446
+SANISETTES;Ouvert;PLACE DE LA CHAPELLE;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.359098476818926, 48.88464490930497]]}";48.8846449093,2.35909847682
+SANISETTES;Ouvert;68 QUAI DE LA LOIRE;19;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.377159137352045, 48.88659728582067]]}";48.8865972858,2.37715913735
+SANISETTES;Ouvert;face 57 QUAI DE LA SEINE;19;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.375836531761866, 48.887235115112404]]}";48.8872351151,2.37583653176
+SANISETTES;Ouvert;171 RUE DES PYRENEES;20;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.40102151004381, 48.86001571292929]]}";48.8600157129,2.40102151004
+SANISETTES;Fermé;face 3 RUE DES DOCTEURS DEJERINE;20;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.412247373913973, 48.85445502611209]]}";48.8544550261,2.41224737391
+TOILETTES;;JARDIN D'EOLE - AIRE DE JEUX;75018;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/jardin-francoise-helene-jourda-ex-20-rue-du-departement-18075;"{""type"": ""MultiPoint"", ""coordinates"": [[2.366157108818243, 48.888348037389356]]}";48.8883480374,2.36615710882
+TOILETTES;;BOIS DE VINCENNES - DAUMESNIL;75012;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/parc-floral-de-paris-1;"{""type"": ""MultiPoint"", ""coordinates"": [[2.414299848616877, 48.83277762088802]]}";48.8327776209,2.41429984862
+TOILETTES;;JARDIN DU MOULIN DE LA POINTE;75013;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-du-monument-aux-meres-francaises-2564;"{""type"": ""MultiPoint"", ""coordinates"": [[2.356788716578499, 48.82101412751667]]}";48.8210141275,2.35678871658
+TOILETTES;;JARDIN JEAN-CLAUDE NICOLAS FORESTIER;75013;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-jean-claude-nicolas-forestier-2554;"{""type"": ""MultiPoint"", ""coordinates"": [[2.348072406221041, 48.81884809913537]]}";48.8188480991,2.34807240622
+TOILETTES;;PARC ANDRE CITROEN;75015;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/parc-andre-citroen-1791;"{""type"": ""MultiPoint"", ""coordinates"": [[2.275296807339177, 48.8420964537002]]}";48.8420964537,2.27529680734
+SANISETTES;Fermé;9 RUE COQUILLIERE;1;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.342472298693266, 48.8635474009773]]}";48.863547401,2.34247229869
+SANISETTES;Fermé;27 BOULEVARD POISSONNIERE;2;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.343654073079795, 48.87129988583528]]}";48.8712998858,2.34365407308
+SANISETTES;Ouvert;44 BOULEVARD MALESHERBES;8;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.320451685354317, 48.87435840225736]]}";48.8743584023,2.32045168535
+SANISETTES;Ouvert;45 BOULEVARD DE ROCHECHOUART;9;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.343340233296102, 48.88267561205315]]}";48.8826756121,2.3433402333
+SANISETTES;Fermé;65 QUAI DE VALMY;10;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.365013155028617, 48.87136893708937]]}";48.8713689371,2.36501315503
+SANISETTES;Fermé;face 28 RUE DU GENERAL GUILHEM;11;6 h - 1 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.379051392752819, 48.86230061990073]]}";48.8623006199,2.37905139275
+CABINE MOBILE;Ouvert;Rue Gaston Cavaillet;75015;;;;1 cabine;"{""type"": ""MultiPoint"", ""coordinates"": [[2.284061585764741, 48.84943373088722]]}";48.8494337309,2.28406158576
+SANISETTES;Fermé;11 AVENUE MAURICE D OCAGNE;14;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.311279224235745, 48.82498851904086]]}";48.824988519,2.31127922424
+SANISETTES;Fermé;face 36 RUE DIDOT;14;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.320178958056874, 48.831657967806095]]}";48.8316579678,2.32017895806
+SANISETTES;Fermé;opposé au 8 AVENUE DE LA PORTE DE CHATILLON;14;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.318181171738439, 48.82384501587049]]}";48.8238450159,2.31818117174
+SANISETTES;Ouvert;4 PLACE DE BRETEUIL;15;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3109598986410163, 48.84733413997167]]}";48.84733414,2.31095989864
+SANISETTES;Fermé;face 57 BOULEVARD LEFEBVRE;15;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.291834085756656, 48.830961567192446]]}";48.8309615672,2.29183408576
+SANISETTES;Fermé;face 2 AVENUE EMILE ZOLA;15;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.277628065658754, 48.846243467271094]]}";48.8462434673,2.27762806566
+SANISETTES;Fermé;BOULEVARD GARIBALDI;15;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.302072031091217, 48.8478417919066]]}";48.8478417919,2.30207203109
+SANISETTES;Ouvert;face 32 AVENUE NIEL;17;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.295532524008157, 48.8814959992131]]}";48.8814959992,2.29553252401
+SANISETTES;Ouvert;face 10 BOULEVARD DES BATIGNOLLES;17;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.326311830075078, 48.88334503192716]]}";48.8833450319,2.32631183008
+SANISETTES;Fermé;1 RUE DE LA BONNE;18;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.343545156427324, 48.88736179846098]]}";48.8873617985,2.34354515643
+SANISETTES;Fermé;29 AVENUE MATHURIN MOREAU;19;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.373949704867119, 48.87844763612634]]}";48.8784476361,2.37394970487
+SANISETTES;Fermé;face 45 AVENUE SIMON BOLIVAR;19;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3805412942459823, 48.87623316458193]]}";48.8762331646,2.38054129425
+SANISETTES;Fermé;face 4 PLACE MARTIN NADAUD;20;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.394717602157618, 48.864949741311236]]}";48.8649497413,2.39471760216
+SANISETTES;Fermé;face 12 RUE BELGRAND;20;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.400778060955302, 48.864879404082494]]}";48.8648794041,2.40077806096
+TOILETTES;;SQUARE DE LA ZAC DIDOT;75014;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-alberto-giacometti-2866;"{""type"": ""MultiPoint"", ""coordinates"": [[2.3198918719148782, 48.833775430556955]]}";48.8337754306,2.31989187191
+TOILETTES;;SQUARE RUES BELLEVILLE - TELEGRAPHE;75020;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/square-belleville-telegraphe-2724;"{""type"": ""MultiPoint"", ""coordinates"": [[2.399281254578799, 48.87498498901931]]}";48.874984989,2.39928125458
+TOILETTES;;PARC DE CHOISY;75013;Voir fiche équipement;Oui;Oui;https://www.paris.fr/equipements/parc-de-choisy-1803;"{""type"": ""MultiPoint"", ""coordinates"": [[2.36173561557668, 48.827829639059495]]}";48.8278296391,2.36173561558
+TOILETTES;;PARC KELLERMANN;75013;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/parc-kellermann-1794;"{""type"": ""MultiPoint"", ""coordinates"": [[2.354932920573897, 48.81857910392336]]}";48.8185791039,2.35493292057
+TOILETTES;;PARC GEORGES BRASSENS;75015;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/parc-georges-brassens-1805;"{""type"": ""MultiPoint"", ""coordinates"": [[2.299950913999615, 48.83162153125085]]}";48.8316215313,2.299950914
+TOILETTES;;PARC CLICHY-BATIGNOLLES - MARTIN LUTHER KING;75017;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/parc-clichy-batignolles-martin-luther-king-2817;"{""type"": ""MultiPoint"", ""coordinates"": [[2.315372554485152, 48.88917002268789]]}";48.8891700227,2.31537255449
+TOILETTES;;SQUARE MONTHOLON;75009;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-montholon-2469;"{""type"": ""MultiPoint"", ""coordinates"": [[2.346735643235951, 48.87722013771023]]}";48.8772201377,2.34673564324
+TOILETTES;;JARDIN DE LA ZAC D'ALESIA;75014;Voir fiche équipement;Non;Non;https://www.paris.fr/equipements/jardin-et-aire-de-jeux-de-la-zac-alesia-montsouris-2867;"{""type"": ""MultiPoint"", ""coordinates"": [[2.33822983711128, 48.826190755689666]]}";48.8261907557,2.33822983711
+TOILETTES;;SQUARE THOMAS JEFFERSON;75016;Voir fiche équipement;Oui;Non;https://www.paris.fr/equipements/square-thomas-jefferson-2606;"{""type"": ""MultiPoint"", ""coordinates"": [[2.29470407503117, 48.86776558683861]]}";48.8677655868,2.29470407503
+WC PUBLICS PERMANENTS;;Parc Rives de Seine;75007;;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.319567982948122, 48.862608094082965]]}";48.8626080941,2.31956798295
+LAVATORY;;Place de l'Etoile;75008;;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.296062832904202, 48.87308210718639]]}";48.8730821072,2.2960628329
+SANISETTES;Ouvert;23 BOULEVARD DE SEBASTOPOL;1;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.348837230656095, 48.85985523410491]]}";48.8598552341,2.34883723066
+SANISETTES;Fermé;2 RUE DES QUATRE FILS;3;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.360700687397763, 48.860059866028]]}";48.860059866,2.3607006874
+SANISETTES;Fermé;7/9 BOULEVARD DU TEMPLE;3;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.366305527110086, 48.86355463067629]]}";48.8635546307,2.36630552711
+SANISETTES;Fermé;4 RUE SALOMON DE CAUS;3;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.354020375521618, 48.8673644300438]]}";48.86736443,2.35402037552
+SANISETTES;Fermé;6 QUAI DE GESVRES;4;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.349796463968451, 48.856486160078234]]}";48.8564861601,2.34979646397
+SANISETTES;Fermé;face 50 RUE DE RIVOLI;4;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.354183092290366, 48.856789424518865]]}";48.8567894245,2.35418309229
+SANISETTES;Fermé;4 AVENUE FRANKLIN D ROOSEVELT;8;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.310160918160172, 48.87014131314519]]}";48.8701413131,2.31016091816
+SANISETTES;Fermé;face 19 AVENUE DE FRIEDLAND;8;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.302361992982482, 48.874613485017605]]}";48.874613485,2.30236199298
+SANISETTES;Ouvert;face 113 BOULEVARD VOLTAIRE;11;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.38095649245684, 48.857188156526306]]}";48.8571881565,2.38095649246
+SANISETTES;Ouvert;11 PLACE DE LA BATAILLE DE STALINGRAD;10;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.368742464268541, 48.88357327133696]]}";48.8835732713,2.36874246427
+CABINE MOBILE;Ouvert;32 Boulevard de Clichy;75018;;;;1 cabine;"{""type"": ""MultiPoint"", ""coordinates"": [[2.336733608670235, 48.88263306057434]]}";48.8826330606,2.33673360867
+SANISETTES;Fermé;RUE JUSSIEU;5;24 h / 24;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.354872194164979, 48.84622521629629]]}";48.8462252163,2.35487219416
+SANISETTES;Fermé;RUE DES MARINIERS;14;6 h - 22 h;Oui;;;"{""type"": ""MultiPoint"", ""coordinates"": [[2.311198111631177, 48.82760820526359]]}";48.8276082053,2.31119811163
