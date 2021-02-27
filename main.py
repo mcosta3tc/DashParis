@@ -10,19 +10,24 @@ toilettes = pd.read_csv("data/sanisettesparis.csv", sep=';')
 # Toilettes publiques de Paris
 '''
 
+# get all toilettes
 total = toilettes.count().TYPE
 st.write("Actuellement il y a plus de ", total ," toilettes publiques dans Paris")
 
-arrondissements = toilettes['ARRONDISSEMENT']
+#create lat and lon column base on 'geo_point_2d' as float
+toilettes["lat"] = toilettes['geo_point_2d'].str.split(",").str.get(0).astype(float)
+toilettes["lon"] = toilettes['geo_point_2d'].str.split(",").str.get(1).astype(float)
+st.map(toilettes)
 
-st.write(arrondissements)
-
-toilettes["lat"] = toilettes['geo_point_2d'].str.split(",").str.get(0)
-toilettes["lon"] = toilettes['geo_point_2d'].str.split(",").str.get(1)
+#create arr column base on arrondissement as "1, 18, 5.."
+arrondissements = toilettes['ARRONDISSEMENT'].astype(str)
+arrondissements = arrondissements.str.replace("7500", "")
+arrondissements = arrondissements.str.replace("750", "")
+toilettes["arr"] = arrondissements
+toilettes["arr"] = toilettes["arr"].astype(int)
 
 st.write(toilettes)
 
-st.map(toilettes)
 
 #st.write(toilettes["Latitude"])
 #st.write(toilettes["Longitude"])
