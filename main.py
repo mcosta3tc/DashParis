@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import pydeck as pdk
 
 
 @st.cache
@@ -17,6 +18,7 @@ def get_data():
     toilettes["arr"] = toilettes["arr"].astype(int)
     return toilettes
 
+
 data = get_data()
 
 '''
@@ -30,23 +32,29 @@ st.write("Actuellement il y a plus de ", total, " toilettes publiques dans Paris
 with st.beta_container():
     col1, col2 = st.beta_columns([5, 1])
     with col1:
-        # display a map
-        arr_to_filter = 17
+        # filter data
+        arr_to_filter = st.slider('Choisir un arrondissement', 1, 20, 5)
         filtered_data = data[data['arr'] == arr_to_filter]
-        st.map(data, zoom=11)
-
-    # st.write(toilettes[toilettes["arr"] == 5])
-
+        # display a map
+        st.map(
+            filtered_data,
+            zoom=12.3
+        )
     with col2:
         # Pie chart types of toilettes by arrondissement
-        pieType = px.pie(data,
-                         values='arr',
-                         names='TYPE',
-                         hover_data=['arr'], labels={'arr': 'Arrondissements'},
-                         color_discrete_sequence=px.colors.sequential.OrRd)
+        pieType = px.pie(
+            filtered_data,
+            title='Moyennes des types toilettes présentes sur cet arrondissement',
+            values='arr',
+            names='TYPE',
+            hover_data=['arr'], labels={'arr': 'Arrondissement ', 'TYPE': 'Type de Toilette '},
+            color_discrete_sequence=px.colors.sequential.OrRd
+        )
         pieType.update_traces(textposition='inside', textinfo='percent+label')
+        pieType.update_layout(showlegend=False)
         st.plotly_chart(pieType)
 
+        # Expander with image and text
     with st.beta_expander("En savoir plus"):
         col1, col2 = st.beta_columns([3, 3])
         with col1:
@@ -56,3 +64,6 @@ with st.beta_container():
                  Plus de 750 toilettes publiques et urinoirs sont installés dans Paris pour répondre aux exigences de la vie parisienne et des touristes. Leur accès est gratuit sur tout le territoire parisien. [En savoir plus] (https://www.paris.fr/pages/les-sanisettes-2396) 
              """)
 
+st.write(filtered_data)
+
+st.write(filtered_data.groupby("TYPE").count())
