@@ -59,7 +59,7 @@ with st.beta_expander("En savoir plus"):
     #     use_container_width=False
     # )
 
-st.subheader("Type de toilettes")
+st.subheader("Type de toilettes dans le " + str(arr_to_filter) + "e")
 # Pie chart types of toilettes by arrondissement
 pieType = px.pie(
     filtered_data,
