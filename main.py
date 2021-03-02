@@ -19,80 +19,130 @@ def get_data():
     return toilettes
 
 
+# General dataset
 data = get_data()
+# Filtered dataset
+filtered_data = ""
+
+
+# Display a header
+def header():
+    st.title("Les toilettes publiques à Paris")
+    # Add spacing
+    st.markdown("""#""")
+
+
+# Display a map
+def map_frame(data_set, zoom, location):
+    if location == "sidebar":
+        st.sidebar.map(
+            data_set,
+            zoom=zoom
+        )
+    elif location == "page":
+        st.map(
+            data_set,
+            zoom=zoom
+        )
+
+
+# Display a Pie chart
+def pie_frame(data_set):
+    pie_type = px.pie(
+        data_set,
+        values='arr',
+        names='TYPE',
+        hover_data=['arr'],
+        labels={'arr': 'Arrondissement ', 'TYPE': 'Type de Toilette '},
+        color_discrete_sequence=px.colors.sequential.OrRd
+    )
+    pie_type.update_traces(textposition='inside', textinfo='percent+label')
+    st.plotly_chart(pie_type)
+
+
+def bar_chart_grouped_frame(data_set, group, header_title):
+    st.subheader(header_title)
+    grouped = data_set.groupby(str(group)).count()
+    bar_frame = px.bar(
+        grouped,
+        x=grouped.index,
+        y='TYPE',
+        text='TYPE',
+        labels={'TYPE': '', str(group): ''},
+    )
+    bar_frame.update_layout(
+        yaxis=dict(
+            title='Nbr de disponibilité'
+        )
+    )
+    st.plotly_chart(bar_frame)
+
 
 # SIDEBAR
-st.sidebar.title("Choisir un arrondissement")
-arr_to_filter = st.sidebar.slider('Du 1er au 20e arrondissement de Paris', 1, 20, 5)
-st.sidebar.write("Vous êtes dans le ", arr_to_filter, "arrondissement de Paris")
-# filter data
-filtered_data = data[data['arr'] == arr_to_filter]
-# filtered map
-st.sidebar.map(
-    filtered_data,
-    zoom=11.3
-)
+st.sidebar.title("Choisir un mode")
+st.sidebar.write("Affichez des information en rapport avec Paris ou un arrondissement")
+# Dropdown
+sidebar_option = st.sidebar.selectbox("", ('Paris', 'Arrondissement'))
 
-# MAIN CONTAINER
+# SHOW CONTENT
+if sidebar_option == 'Arrondissement':
+    # Display header
+    header()
 
-st.title("Les toilettes publiques à Paris")
+    # Sidebar header
+    st.sidebar.title("Choisir un arrondissement")
+    arr_to_filter = st.sidebar.slider('Du 1er au 20e arrondissement de Paris', 1, 20, 5)
+    st.sidebar.write("Vous êtes dans le ", arr_to_filter, "arrondissement de Paris")
+    # filter data
+    filtered_data = data[data['arr'] == arr_to_filter]
+    # Display filtered map in the sidebar
+    map_frame(filtered_data, 11.3, "sidebar")
 
-# count of toilets
-total = data.count().TYPE
-st.write("Actuellement il y a plus de ", total, " toilettes publiques dans Paris :toilet:")
+    st.subheader("Type de toilettes dans le " + str(arr_to_filter) + "e arrondissement")
+    # Pie chart types of toilettes by arrondissement
+    pie_frame(filtered_data)
 
-# Expander: image, txt, map
-with st.beta_expander("En savoir plus"):
-    # define equals column
-    col1, col2 = st.beta_columns([3, 3])
-    with col1:
-        st.image("https://cdn.paris.fr/paris/2019/10/10/huge-646b1a47f1e5c66d4f269e59db5ae0a8.jpg")
-    with col2:
-        st.markdown("""
-                     Plus de 750 toilettes publiques et urinoirs sont installés dans Paris pour répondre aux exigences de la vie parisienne et des touristes. Leur accès est gratuit sur tout le territoire parisien. [En savoir plus] (https://www.paris.fr/pages/les-sanisettes-2396) 
-                 """)
+    # Bar chart on statut
+    bar_chart_grouped_frame(filtered_data, "STATUT", "Disponibilités")
 
+    # Bar chart on PMR
+    bar_chart_grouped_frame(filtered_data, "ACCES_PMR", "Accessibles pour les personnes à mobilité réduite")
+
+    st.write(filtered_data)
+
+
+elif sidebar_option == 'Paris':
+    # Display header
+    header()
+
+    # Sidebar
+    # count of toilets
+    total = data.count().TYPE
+    st.sidebar.write("Actuellement il y a plus de ", total, " toilettes publiques dans Paris :toilet:")
+
+    # Page
     # general map of toilets in Paris
-    # st.map(
-    #     data,
-    #     zoom=11,
-    #     use_container_width=False
-    # )
+    map_frame(data, 11, "page")
 
-st.subheader("Type de toilettes dans le " + str(arr_to_filter) + "e")
-# Pie chart types of toilettes by arrondissement
-pieType = px.pie(
-    filtered_data,
-    values='arr',
-    names='TYPE',
-    hover_data=['arr'],
-    labels={'arr': 'Arrondissement ', 'TYPE': 'Type de Toilette '},
-    color_discrete_sequence=px.colors.sequential.OrRd
-)
-pieType.update_traces(textposition='inside', textinfo='percent+label')
-st.plotly_chart(pieType)
+    # Expander: image, txt, map
+    with st.beta_expander("En savoir plus"):
+        # define equals column
+        col1, col2 = st.beta_columns([3, 3])
+        with col1:
+            st.image("https://cdn.paris.fr/paris/2019/10/10/huge-646b1a47f1e5c66d4f269e59db5ae0a8.jpg")
+        with col2:
+            st.markdown("""
+                         Plus de 750 toilettes publiques et urinoirs sont installés dans Paris pour répondre aux exigences de la vie parisienne et des touristes. Leur accès est gratuit sur tout le territoire parisien. [En savoir plus] (https://www.paris.fr/pages/les-sanisettes-2396) 
+                     """)
 
-# st.write(filtered_data)
+    st.subheader("Type de toilettes dans Paris")
+    # Pie chart types of toilettes
+    pie_frame(data)
 
-# Bar chart on statut
-st.subheader("Disponibilités")
-statut_group = filtered_data.groupby("STATUT").count()
-bar = px.bar(statut_group,
-             x=statut_group.index,
-             y='TYPE',
-             text='TYPE',
-             labels={'TYPE': '', 'STATUT': ''}
-             )
-st.plotly_chart(bar)
+    # Bar chart on statut
+    bar_chart_grouped_frame(data, "STATUT", "Disponibilités")
 
-# Bar chart on PMR
-st.subheader("Accessibles pour les personnes à mobilité réduite")
-acces_pmr = filtered_data.groupby("ACCES_PMR").count()
-bar = px.bar(acces_pmr,
-             x=acces_pmr.index,
-             y='TYPE',
-             text='TYPE',
-             labels={'TYPE': '', 'ACCES_PMR': ''}
-             )
-st.plotly_chart(bar)
+    # Bar chart on PMR
+    bar_chart_grouped_frame(data, "ACCES_PMR", "Accessibles pour les personnes à mobilité réduite")
 
+    st.write(data["HORAIRE"].unique())
