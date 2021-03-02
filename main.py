@@ -80,7 +80,7 @@ def bar_chart_grouped_frame(data_set, group, header_title):
 
 # SIDEBAR
 st.sidebar.title("Choisir un mode")
-st.sidebar.write("Affichez des information en rapport avec Paris ou un arrondissement")
+st.sidebar.write("Affichez des information en rapport avec Paris ou votre arrondissement")
 # Dropdown
 sidebar_option = st.sidebar.selectbox("", ('Paris', 'Arrondissement'))
 
@@ -145,4 +145,6 @@ elif sidebar_option == 'Paris':
     # Bar chart on PMR
     bar_chart_grouped_frame(data, "ACCES_PMR", "Accessibles pour les personnes à mobilité réduite")
 
-    st.write(data["HORAIRE"].unique())
+    st.write(data.HORAIRE)
+
+    st.write(data.HORAIRE.str.replace("\D+", "&").fillna("").apply(lambda x: x.split("&")))
