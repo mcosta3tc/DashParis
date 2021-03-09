@@ -4,6 +4,14 @@ import plotly.express as px
 import pydeck as pdk
 
 
+def openHours(hours):
+    if hours[0] != "":
+        if hours[0] == "24" and hours[1] == "24":
+            return 24
+        else:
+            return int(hours[1]) - (int(hours[0]))
+
+
 @st.cache
 def get_data():
     toilettes = pd.read_csv("data/sanisettesparis.csv", sep=';')
@@ -16,6 +24,8 @@ def get_data():
     arrondissements = arrondissements.str.replace("750", "")
     toilettes["arr"] = arrondissements
     toilettes["arr"] = toilettes["arr"].astype(int)
+    toilettes["Open Hours"] = toilettes.HORAIRE.str.replace("\D+", "&").fillna("").apply(lambda x: x.split("&")).apply(
+        openHours)
     return toilettes
 
 
@@ -119,6 +129,8 @@ elif sidebar_option == 'Paris':
     # count of toilets
     total = data.count().TYPE
     st.sidebar.write("Actuellement il y a plus de ", total, " toilettes publiques dans Paris :toilet:")
+    st.sidebar.write("Elles sont ouvertes en moyenne ")
+    st.sidebar.write(round(data['Open Hours'].mean()), "h sur 24")
 
     # Page
     # general map of toilets in Paris
@@ -145,6 +157,6 @@ elif sidebar_option == 'Paris':
     # Bar chart on PMR
     bar_chart_grouped_frame(data, "ACCES_PMR", "Accessibles pour les personnes à mobilité réduite")
 
-    st.write(data.HORAIRE)
+    st.plotly_chart(px.line(data, x="arr", y="Open Hours"))
 
-    st.write(data.HORAIRE.str.replace("\D+", "&").fillna("").apply(lambda x: x.split("&")))
+    st.write(data)
